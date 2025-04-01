@@ -34,4 +34,4 @@ At the moment my main focus goes out to experimenting with AI Agent enabling exi
 # Table of contents
 1. [RAG](pages/rag.md)
 2. [AI Agentic Tool Calling](pages/tools.md)
-3. [Model Context Protocol (MCP) to implementing Agentic AI services](mcp.md)
+3. [Model Context Protocol (MCP) to implementing Agentic AI services](pages/mcp.md)

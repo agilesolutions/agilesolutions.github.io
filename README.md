@@ -3,8 +3,20 @@ With 40 years experience in Software Engineering and System Integration across d
 Specialized in optimizing software development processes to enhance productivity and quality across all facets of development.
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
-# About AI enabling legacy and my future objectives
+# My future objectives to be a specialist in Agentic AI enabling legacy business solutions with Spring AI
 At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-azure-ai/).
+## What is Agentic AI and how does it work...
+Commonly known is conversational generative AI, person makes a query and AI engine (LLM) reasons and generates you an answer. Next frontier of AI is agentic with agents. It reasons but instead of answering it acts on its own, without humam intervention.
+
+### Agentic AI goes through four-step approach for doing its things:
+1. #Preceive# : sensing for additional data on top of what it was learned on from various sources, such as proprietary database, digital interfaces, REST API and so on.
+2. #Reason# : interacting with LLM as the reasoning engine to understand and come to a conclusion. Taking in the prompt it was provided (constrained to the relevant business logic), alternatively using techniques like RAG (retrieval-augmented generation) to enriching with proprietary data sources and deliver accurate relevant outputs. 
+3. #Act# : executing tasks by calling external tools (that is what my ShowCase project is about), like opening new DB orders on an OMS system (Order Management System). Guardrails can get provided to constrain the amount of impact on your systems.
+4. #Learn#: Continuously improving through feedback loops (data flywheel) by feeding back data into its system to enhance its model, ability to adapt and improve it effectiveness over time.
+
+<img title="The data Flywheel of adaptivity" alt="Alt text" src="/images/agentic.png">
+
+
 ## Objectives line out
 [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) provides abstractions that serve as the foundation for developing AI applications. I am particularly focusing on the following areas:
 1. [Chat Client API](https://docs.spring.io/spring-ai/reference/api/chatclient.html) offering a fluent API for communicating with an AI Model. It supports both a synchronous and streaming programming model.

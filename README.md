@@ -9,10 +9,10 @@ At the moment my main focus goes out to experimenting with AI Agent enabling exi
 Commonly known is conversational generative AI, person makes a query and AI engine (LLM) reasons and generates you an answer. Next frontier of AI is agentic with agents. It reasons but instead of answering it acts on its own, without humam intervention.
 
 ### Agentic AI goes through four-step approach for doing its things:
-1. #Preceive# : sensing for additional data on top of what it was learned on from various sources, such as proprietary database, digital interfaces, REST API and so on.
-2. #Reason# : interacting with LLM as the reasoning engine to understand and come to a conclusion. Taking in the prompt it was provided (constrained to the relevant business logic), alternatively using techniques like RAG (retrieval-augmented generation) to enriching with proprietary data sources and deliver accurate relevant outputs. 
-3. #Act# : executing tasks by calling external tools (that is what my ShowCase project is about), like opening new DB orders on an OMS system (Order Management System). Guardrails can get provided to constrain the amount of impact on your systems.
-4. #Learn#: Continuously improving through feedback loops (data flywheel) by feeding back data into its system to enhance its model, ability to adapt and improve it effectiveness over time.
+1. **Preceive** : sensing for additional data on top of what it was learned on from various sources, such as proprietary database, digital interfaces, REST API and so on.
+2. **Reason** : interacting with LLM as the reasoning engine to understand and come to a conclusion. Taking in the prompt it was provided (constrained to the relevant business logic), alternatively using techniques like RAG (retrieval-augmented generation) to enriching with proprietary data sources and deliver accurate relevant outputs. 
+3. **Act** : executing tasks by calling external tools (that is what my ShowCase project is about), like opening new DB orders on an OMS system (Order Management System). Guardrails can get provided to constrain the amount of impact on your systems.
+4. **Learn**: Continuously improving through feedback loops (data flywheel) by feeding back data into its system to enhance its model, ability to adapt and improve it effectiveness over time.
 
 <img title="The data Flywheel of adaptivity" alt="Alt text" src="/images/agentic.png">
 

@@ -4,3 +4,5 @@
 - Learned on vast (Large LLM) of data to identify patters and generative
 - Traditional back-and-forth discussion alike conversation as we know it from ChatGPT
 - *Generative AI focuses on creation/generation*
+
+[<img src="../images/back.png">](../presentation)

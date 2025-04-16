@@ -43,7 +43,11 @@ Commonly known is conversational generative AI, person makes a query and AI engi
 - Monitoring & Alerts (Azure Monitor, Prometheus/Grafana)
 - Security Best Practices (Key Vault for secrets, RBAC, Network Policies)
 - 
+
 # Table of contents
 1. [RAG](pages/rag.md)
 2. [AI Agentic Tool Calling](pages/tools.md)
 3. [Model Context Protocol (MCP) to implementing Agentic AI services](pages/mcp.md)
+
+# Presentations
+1. [From Generative to vertical Agentic AI](presentations/presentation.md)

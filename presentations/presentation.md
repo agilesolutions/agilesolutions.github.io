@@ -5,6 +5,7 @@ From generating Responses to independently making Decisions and performing Tasks
 - [Agentic AI](pages/agentic.md)
 - [Vertical AI Agents](pages/verticalagentic.md)
 - [Small vs Large Language Models SLM/LLM](pages/slmvsllm.md)
+- [Emergence of Domain-Specific SLMs](pages/domainllm.md)
 - [Integrating AI Agents with MCP Model Context Protocol](pages/mcp.md)
 
 [<img src="../images/back.png">](../README.md)

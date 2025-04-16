@@ -1,8 +1,21 @@
-# What is agentic AI
+# What is RAG (Retrieval Augmented Generation)
 [<img src="../images/back.png">](../presentation)
-- **Generative** because of its ability to generate content like text, images, music, audio and vidoes
-- Learned on vast (Large LLM) of data to identify patters and generative
-- Traditional back-and-forth discussion, conversation between human and machine as we know it from ChatGPT
-- *Generative AI focuses on creation/generation*
+
+### The limitations of Pre-Trained Models and solution to that problem
+- Large language models (LLMs) like ChatGPT are trained on public internet data that was available at the point in time when they were trained (aka Knowledge cut-off date). 
+- They can answer questions related to the data they were trained on.
+- Everything beyond cut-off could get impacted by AI hallucination.
+- Retrieval Augmented Generation (RAG) is a smart way to improve how AI systems answer questions or create content by combining two steps:
+  - retrieving useful information and generating responses
+  - Instead of just relying on what the AI knows, RAG pulls in extra data that helps the system understand the question better and provide more accurate, context-aware answers. 
+
+## Benefits and Applications of RAG
+- Improved privacy: You can use data that the AI wasn’t trained on, meaning you don’t have to worry about the AI knowing sensitive information beforehand.
+- Better context: The system can pull in relevant information to understand the user’s question more deeply.
+- Higher accuracy: By looking up information, RAG helps reduce mistakes (when AI makes up things) by using real facts.
+- Flexible applications: It can be used for various tasks like answering questions and more importantly autonomously performing tasks on behalf of a user, aka the [AI Agent pattern](https://blog.whiteprompt.com/mastering-ai-patterns-architectures-knowledge-systems-and-multi-agent-approaches-386064c4bc5a). Tools in this category can be used to take action in a software system, such as sending an email, creating a new record in a database, submitting a form, or triggering a workflow.
+  The goal is to automate tasks that would otherwise require human intervention or explicit programming.
+  
+<img title="Retrieval Augmented Generation (RAG) technique" alt="Alt text" src="/images/rag.png">
 
 [<img src="../images/back.png">](../presentation)

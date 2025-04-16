@@ -1,5 +1,5 @@
-# From Generative to Agentic AI
-From what we are all familair with to what is being the next generation AI automation that is going to be ...
+# From Generative to Agentic AI (*from Chatting to Doing*)
+From generating Responses to independently making Decisions and performing Tasks without Human Intervention.
 - [Generative AI](pages/generative.md) 
 - [RAG Retrieval-augmented Generation](pages/rag.md)
 - [Agentic AI](pages/agentic.md)

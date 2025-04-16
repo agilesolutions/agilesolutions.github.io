@@ -16,7 +16,7 @@ Agentic AI also referred as to AI Agents are the next frontier of Artificial Int
 - Capabilities to optimize operations, automate complex processes and enhance customer experiences -> Agentic AI is reshaping the competitive landscape.
 - **Economist**: agentic AI in enterprise software applications will grow from less than 1% in 2024 to 33% by 2028, enabling autonomous solutions for 15% of day-to-day work decisions.
 
-<img title="The data Flywheel of adaptivity" alt="Alt text" src="/images/agentic.png">
+<img title="The data Flywheel of adaptivity" alt="Alt text" src="../images/agentic.png">
 
 ### How Does Agentic AI work?
 1. **Preceive** : sensing for additional data on top of what it was learned on from various sources, such as proprietary database, digital interfaces, REST API and so on.

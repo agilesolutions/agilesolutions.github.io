@@ -30,6 +30,7 @@
   - Great for environments where low latency is a must.
 
 ### Task complexity (*why SLMs fits well on Vertical AI Agent pattern*)
+
 | LLMs                                                                              | SLMs                                                                          |
 |-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Capable handling complex, sophisticated, and general tasks                        | Well suited for more adequate, simpler tasks                                  |

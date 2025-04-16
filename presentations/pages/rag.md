@@ -1,10 +1,8 @@
-# What is Generative AI
+# What is agentic AI
 [<img src="../images/back.png">](../presentation)
 - **Generative** because of its ability to generate content like text, images, music, audio and vidoes
+- Learned on vast (Large LLM) of data to identify patters and generative
 - Traditional back-and-forth discussion, conversation between human and machine as we know it from ChatGPT
-- Relies on LLM's reasoning capabilities, built on LLM
-- LLM learned on vast amounts of data to identify patters and generative
-- Dependent on knowledge cut-off date on the data it ingested
 - *Generative AI focuses on creation/generation*
 
 [<img src="../images/back.png">](../presentation)

@@ -1,0 +1,3 @@
+# From Generative to Agentic AI
+From what we are all familair with to what is being the next generation AI automation that is going to be ...
+- [Generative AI](pages/generative.md)

@@ -1,13 +1,11 @@
 # What is MCP Model Context Protocol
+[<img src="../images/back.png">](../presentation)
+
 - Open standard enabling developers to build two-way connections between external sources like search engines, databases, file systems and their AI Agents.
 - Providing a standardized way to connect AI models to external data sources and tools (systems).
 - Straight forward client-server Architecture to expose data and tools (systems) as MCP servers, letting AI Agents (MCP clients) connect to these servers.
 - Helps building complex workflows on top of LLMs and SLMs.
 - First class integration with Spring AI.
-
-[<img src="../images/back.png">](../presentation)
-
-
 
 ## MCP Client - Server architecture
 

@@ -7,7 +7,7 @@
 - Depends on knowledge cut-off date on the data it ingested.
 - *Generative AI focuses on creation/generation*
 
-## Generative AI Use Cases
+### Generative AI Use Cases
 
 <img title="Applications of Generative AI" alt="Alt text" src="../images/generative.png">
 

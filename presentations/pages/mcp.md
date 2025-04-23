@@ -9,7 +9,7 @@
 
 ## MCP Client - Server architecture
 
-<img title="Model Context Protocol 101" alt="Alt text" src="/images/mcp.png">
+<img title="Model Context Protocol 101" alt="Alt text" src="../images/mcp.png">
 
 MCP follows a client-server architecture that revolves around several key components:
 1. MCP Host: is our main application that integrates with an LLM and requires it to connect with external data sources

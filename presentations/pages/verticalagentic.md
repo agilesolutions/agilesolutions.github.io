@@ -25,7 +25,7 @@ AI Components tailor-made for specific Tasks or Workflows for specific Domains a
 - **Legal and Compliance**
   - Document reviews - AI agents can analyse documentaton, transactions or legel documents
   - Contract analysis
-  - Due diligence - verifying identity and risk profile of individuals or businesses that certain tape of institution deals with (anti-money laundering compliance) 
+  - Due diligence - verifying identity and risk profile of individuals or businesses that certain type of institution deals with (anti-money laundering compliance) 
 - **More to come**
   - ..
   - ..

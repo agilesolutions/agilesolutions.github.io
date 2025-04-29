@@ -7,6 +7,8 @@ From generating Responses to independently making Decisions and performing Tasks
 - [Small vs Large Language Models SLM/LLM](pages/slmvsllm.md)
 - [Emergence of Domain-Specific SLMs](pages/domainllm.md)
 - [Integrating AI Agents with MCP Model Context Protocol](pages/mcp.md)
+- [Spring AI and testability](pages/testability.md)
+- [Spring AI and observability](pages/observability.md)
 - [MCP ShowCase Spring AI project](pages/showcase.md)
 
 [<img src="../images/back.png">](../README.md)

@@ -1,4 +1,4 @@
-# Observe - Providing Insights into AI-related Components and Operations
+# Observe - Insights into AI-related Components behavior
 [<img src="../images/back.png">](../presentation)
 
 ### Why is Observability important for Spring AI?

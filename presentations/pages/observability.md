@@ -3,7 +3,7 @@
 
 ### Why is Observability important for Spring AI?
 - Spring AI's functionality composed out of ridge set of closely integrated Components.
-- Allows Developers to capture details on various Application Component behavior under various Conditions (CPU and Memory Usage, I/O behavior)
+- Allows Developers to capture details on various Application Component behavior under various Conditions like response times on each component invocation.
 - Metrics: measurements providing insights about state and performance AI components: Model, VectorStore, prompts...
   - CPU usage, Memory consumption, response times and error rates
 - Traces: tracking sequence of Events that occur while handing AI requests across misc Components, check how data flows from one component into another.

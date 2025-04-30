@@ -8,7 +8,7 @@ From generating Responses to independently making Decisions and performing Tasks
 - [Emergence of Domain-Specific SLMs](pages/domainllm.md)
 - [Integrating AI Agents with MCP Model Context Protocol](pages/mcp.md)
 - [Spring AI and testability - about Automated Reasoning checks to help prevent factual errors](pages/testability.md)
-- [Spring AI and observability -  getting insights on Performance and things like CPU, Memory consumption](pages/observability.md)
+- [Spring AI and observability - providing metrics for sent tokens to models, trace data flows between application components and AI models](pages/observability.md)
 - [MCP ShowCase Spring AI project](pages/showcase.md)
 
 [<img src="../images/back.png">](../README.md)

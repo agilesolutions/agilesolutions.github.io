@@ -6,7 +6,7 @@
 - Allows Developers to capture details on various Application Component behavior under various Conditions (CPU and Memory Usage, I/O behavior)
 - Metrics: measurements providing insights about state and performance AI components: Model, VectorStore, prompts...
   - CPU usage, Memory consumption, response times and error rates
-- Traces: tracking sequence of Events that occur while handing AI requests across misc Components
+- Traces: tracking sequence of Events that occur while handing AI requests across misc Components, check how data flows from one component into another.
 
 ## Observability in Spring AI
 - Spring Framework supports observability through [Micrometer](https://micrometer.io/) for metrics.

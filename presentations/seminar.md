@@ -1,5 +1,5 @@
 # Strategy Seminar for your future Career Management
-[<img src="../images/back.png">](../presentation)
+[<img src="../images/back.png">](../README.md)
 
 ## Change management & career evolution
 - Accepting transition and moving forward
@@ -17,5 +17,5 @@
 - [Strategy Seminar for
   your future Career Management](https://www.sundp.ch/index.php/kurse-seminare/seminare-kurse.html)
 
-[<img src="../images/back.png">](../presentation)
+[<img src="../images/back.png">](../README.md)
 

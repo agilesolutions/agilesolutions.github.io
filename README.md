@@ -1,5 +1,5 @@
 # About my experience so far
-With 40 years experience in Software Engineering and System Integration across diverse industries—including Logistics, Government, Telephony, Banking, Insurance, and Finance, I have built a career as a results-driven consultant. My expertise spans roles with leading organizations such as ITT, DEC, Philips, Shell, ECT Rotterdam, Schiphol Airport, Samsung, KPN Royal Dutch Telecom, ING Bank, UBS, Credit Suisse, Bank Julius Baer, and Swiss RE.
+With 40 years experience in Software Engineering and System Integration across diverse industries—including Logistics, Telephony, Banking, Insurance. I have built a career as a results-driven consultant. My expertise spans roles with organizations such as ITT, DEC, Philips, Shell, Samsung, KPN Royal Dutch Telecom, Friesland Bank, UBS, Credit Suisse, Bank Julius Baer, and Swiss RE.
 Specialized in optimizing software development processes to enhance productivity and quality across all facets of development.
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)

@@ -13,5 +13,9 @@
 - Create targeted application packages with tailored cv and impactful motivation letters
 - Compelling personal presentations, success stories, interviewing, sales pitching, USP delivery, networking
 
+## References
+- [Strategy Seminar for
+  your future Career Management](https://www.sundp.ch/index.php/kurse-seminare/seminare-kurse.html)
+
 [<img src="../images/back.png">](../presentation)
 

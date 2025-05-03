@@ -1,0 +1,17 @@
+# Strategy Seminar for your future Career Management
+[<img src="../images/back.png">](../presentation)
+
+## Change management & career evolution
+- Accepting transition and moving forward
+- Where do I stand – Situational analysis, personal and professional assessments
+- Opportunities and challenges in the present and future IT
+- Formulate short- and long term career strategies
+
+## Self-marketing
+- Define your positioning, evaluate your target markets, create viable alternatives
+- Perfect your online digital footprint **(LinkedIn profile optimization)**, effectively use social media in your career
+- Create targeted application packages with tailored cv and impactful motivation letters
+- Compelling personal presentations, success stories, interviewing, sales pitching, USP delivery, networking
+
+[<img src="../images/back.png">](../presentation)
+

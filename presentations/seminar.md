@@ -9,9 +9,13 @@
 
 ## Self-marketing
 - Define your positioning, evaluate your target markets, create viable alternatives
-- Perfect your online digital footprint **(LinkedIn profile optimization)**, effectively use social media in your career
+- Perfect your online digital footprint, effectively use social media in your career
+  - **(LinkedIn profile optimization)**
+  - GitHub ShowCase project demonstrating AI development skills with SpringBoot and Azure Foundation (Terraform)
 - Create targeted application packages with tailored cv and impactful motivation letters
 - Compelling personal presentations, success stories, interviewing, sales pitching, USP delivery, networking
+  - Agent AI presentation
+  - GitHub Showcase project running SpringBoot enabled AI Agent demo on Azure AI Foudation
 
 ## References
 - [Strategy Seminar for

@@ -4,7 +4,7 @@ Specialized in optimizing software development processes to enhance productivity
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
 # My future objectives to be a specialist in Agentic AI enabling legacy business solutions with Spring AI
-At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-azure-ai/).
+At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/poc-mcp-client/).
 ## What is Agentic AI and how does it work...
 Commonly known is conversational generative AI, person makes a query and AI engine (LLM) reasons and generates you an answer. Next frontier of AI is agentic with agents. It reasons but instead of answering it acts on its own, without humam intervention.
 

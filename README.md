@@ -52,3 +52,5 @@ Commonly known is conversational generative AI, person makes a query and AI engi
 # Presentations
 1. [From Generative to vertical Agentic AI](presentations/presentation.md)
 2. [Strategy Seminar for Carreer Management](presentations/seminar.md)
+3. [Letter of Application](presentations/letterapplication.md)
+4. [Developer skills](presentations/skills.md)

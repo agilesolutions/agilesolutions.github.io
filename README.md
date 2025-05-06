@@ -3,7 +3,7 @@ With 40 years experience in Software Engineering and System Integration across d
 Specialized in optimizing software development processes to enhance productivity and quality across all facets of development.
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
-## ShowCasing Agentic AI with Spring AI, running on Azure AKS Kubernetes and Azure AI Foundry
+## ShowCasing Agentic AI with Spring AI, running on Azure AKS and AI Foundry
 At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/poc-mcp-client/).
 ## What is Agentic AI and how does it work...
 Next frontier of AI world is Agentic AI with Agents that plan and act autonomously without user intervention. Most common scenario is automating repetitive tasks to freeing up human resources to focus on more strategic and creative tasks like innovation. 

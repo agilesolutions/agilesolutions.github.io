@@ -1,17 +1,17 @@
 # Template Letter of Application
 [<img src="../images/back.png">](../README.md)
 
-**[Your Name]**
-**[Your Address]**
-**[City, State, ZIP Code]**
-**[Email Address]**
-**[Phone Number]**
-**[Date]**
+**[Your Name]**<br>
+**[Your Address]**<br>
+**[City, State, ZIP Code]**<br>
+**[Email Address]**<br>
+**[Phone Number]**<br>
+**[Date]**<br>
 
-**[Hiring Manager's Name]**
-**[Company Name]**
-**[Company Address]**
-**[City, State, ZIP Code]**
+**[Hiring Manager's Name]**<br>
+**[Company Name]**<br>
+**[Company Address]**<br>
+**[City, State, ZIP Code]**<br>
 
 Dear **[Hiring Manager's Name]**,
 

@@ -21,7 +21,7 @@
   - Instead of relying on a massive general-purpose model, it's often more efficient to fine-tune a smaller model on a domain-specific dataset.
   - This smaller model can offer higher quality outputs at a significantly lower cost.
 
-### To read the complete story...
+### Content compiled from...
 Three ways to tailoring LLMs to become domain specific
 - [A three-step design pattern for specializing LLMs](https://cloud.google.com/blog/products/ai-machine-learning/three-step-design-pattern-for-specializing-llms?hl=en)
 

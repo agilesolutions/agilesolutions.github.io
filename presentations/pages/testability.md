@@ -23,4 +23,7 @@
   - LLM-AggreFact is a fact-checking benchmark that aggregates 11 of the most up-to-date publicly available datasets on grounded factuality (i.e., hallucination) evaluation.
 - Put both type of tests on DevOps pipelines and let them run on demand or on pull requests....
 
+### References
+- [Spring AI Model Evaluation and Testing](https://docs.spring.io/spring-ai/reference/api/testing.html)
+
 [<img src="../images/back.png">](../presentation)

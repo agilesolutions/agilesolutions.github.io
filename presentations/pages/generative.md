@@ -11,7 +11,7 @@
 
 <img title="Applications of Generative AI" alt="Alt text" src="../images/generative.png">
 
-### References
+### Content compiled from
 - [NVIDIA - What is Generative AI](https://www.nvidia.com/en-us/solutions/ai/generative-ai/)
 
 [<img src="../images/back.png">](../presentation)

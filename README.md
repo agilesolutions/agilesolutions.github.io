@@ -32,7 +32,7 @@ This is entirely different from the generic AI we are used to, which is primaril
 9. [Hashicorp Terraform](https://learn.microsoft.com/en-us/azure/search/search-get-started-terraform) to deploy Azure AI Search service using Terraform
 
 ## Technology stack
-- SpringBoot application microservice exposing REST API end-pionts to triggering demonstrated logic.
+- SpringBoot application microservice exposing REST API end-points to triggering demonstrated logic.
 - Spring AI
   - Connecting Azure Search Vector database to demonstrating RAG
   - Tool Calling, demonstrating Agentic AI. The goal is to automate that would otherwise require human intervention or explicit programming. For example, a tool can be used to book a flight for a customer interacting with a chatbot, to fill out a form on a web page, or automatically generate an order in an OMS order management system.

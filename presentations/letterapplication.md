@@ -15,7 +15,7 @@
 
 Dear **[Hiring Manager's Name]**,
 
-I am writing to express my interest in the Spring Boot Java Developer position at **[Company Name]**. With over 40 years of experience in software development and DevOps engineering, I bring a wealth of practical knowledge, architectural insight, and a proven track record of delivering robust, scalable solutions across various sectors including finance, telecom, logistics, and government.
+I am writing to express my interest in the Spring Boot Java Developer position at **[Company Name]**. With 40 years of experience in software development and DevOps engineering, I bring a wealth of practical knowledge, architectural insight, and a proven track record of delivering robust, scalable solutions across various sectors including finance, telecom, logistics, and government.
 
 Throughout my career, I have designed and implemented enterprise-grade systems using Java and the Spring ecosystem, with recent focus on MicroServices, CI/CD automation, and containerized deployments. My expertise spans the full development lifecycle—from requirements gathering and system design to deployment and production support—underpinned by agile and DevOps practices.
 

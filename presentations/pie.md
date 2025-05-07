@@ -2,7 +2,7 @@
 [<img src="../images/back.png">](../README.md)
 
 ## Introduction
-P.I.E. method can significantly enhance your chances of climbing the ladder of success. The P.I.E. method encompasses three essential elements: **Performance, Image, and Exposure**. By understanding and leveraging these components, individuals can position themselves for long-term career growth and advancement.
+P.I.E. method can significantly enhance your chances of climbing the ladder of success. The [P.I.E. method](https://www.mondofrank.com/pie/) encompasses three essential elements: **Performance, Image, and Exposure**. By understanding and leveraging these components, individuals can position themselves for long-term career growth and advancement.
 
 ### Performance: The Foundation of Success
 - **Master Your Craft:** Continuously seek to improve your knowledge and skills in your chosen field. Stay updated with the latest trends, technologies, and best practices

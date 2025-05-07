@@ -12,7 +12,7 @@
 - **Action** - the action you took
 - **Result** - what happened as a result of your action and what you learned from the experience
 
-### How to use STAR (On of my examples)
+### How to use STAR (worked out one of my recent assignments)
 - **Situation** - Project wanted to have a fully automated End-to-End regression test for all services participating a SAP IFRS calculation run
 - **Task** - Design and Implement an Azure DevOps nightly-run pipeline to rebuild all services from scratch from the latest state of development **(GIT master branch)** for that working day, spin up an Azure Test Cluster from scratch using Terraform, deploy all services on that new cluster and trigger a full End-to-End report and report the test outcome to an MS Teams Channel. This will enable the team next morning to check the over health state of all development efforts from last working day.
 - **Action** - I presented my design proposals to the team and worked out the following solution...

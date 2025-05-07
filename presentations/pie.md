@@ -4,7 +4,8 @@
 ## Introduction
 P.I.E. method can significantly enhance your chances of climbing the ladder of success. The [P.I.E. method](https://www.mondofrank.com/pie/) encompasses three essential elements: **Performance, Image, and Exposure**. By understanding and leveraging these components, individuals can position themselves for long-term career growth and advancement.
 
-### Performance: The Foundation of Success
+Under here some self-reflections on the ME's...
+### Performance: The Foundation of Success 
 - **Master Your Craft:** Continuously seek to improve your knowledge and skills in your chosen field. Stay updated with the latest trends, technologies, and best practices
   - **ME** - Continue studying Azure AI foundation and Spring AI, sync up with my GitHub ShowCase project 
 - **Set Clear Goals:** Clearly define what you want to achieve and break it down into manageable milestones.
@@ -26,7 +27,11 @@ P.I.E. method can significantly enhance your chances of climbing the ladder of s
 - **Take Initiative:** Volunteer for challenging assignments, lead projects, and take ownership of initiatives.
   - **ME** - Take initiative and gently own the things that you are bringing forward (*at the end you want to get the credits*), be gentle and do not overrun yourself by getting in competition with permanent staff. 
 - **Network Effectively:** Actively build a strong professional network within and outside your organization. Attend industry events, join relevant associations, and engage with influential professionals.
+  - **ME** - Depends on your role, in BJB I networked a lot with RedHat lead Engineers and Architects out of my role of Solution Architect. In case of being a developer on project it is not that easy to network out of the scope of your project and get engaged with other influential permanent staff. 
 - **Seek Mentors and Sponsors:** Cultivate relationships with experienced professionals who can guide and advocate for you. Mentors provide valuable advice, while sponsors can actively promote your career advancement within the organization.
+  - **ME** - Generally I try to attract attention of management and/or permanent influential permanent staff by presenting new cutting edge technologies and features that might bring structural improvements to the field of operations I am part of. 
+
+
 
 ## References
 - [Unlocking Career Success: The P.I.E. Method](https://clearmonttech.com/unlocking-career-success-the-p-i-e-method/)

@@ -57,3 +57,4 @@ This is entirely different from the generic AI we are used to, which is primaril
 3. [Letter of Application](presentations/letterapplication.md)
 4. [Developer skills](presentations/skills.md)
 5. [P.I.E. Method Performance, Image, and Exposure](presentations/pie.md)
+6. [The STAR method to preparing Interviews and structure your CV](presentations/star.md)

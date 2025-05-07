@@ -23,8 +23,9 @@
   5. Consolidate test results and send the outcome to a predefined MS Teams Channel for the team to get observed begin of day.
 - **Result** - This resulted in the following overall organizational performance improvements...
   - The overall nightly tests provided a quality gate preventing bugs slipping through into UAT and production releases.
-  - Bugs could get intercepted and anticipated on in an early stage immediately next day morning.
+  - Bugs could get intercepted and anticipated on in an early stage immediately next day early morning when team members opened up the dedicated Team Channels.
   - Leveraged a higher level of awareness with developers to put more emphasis on individual testing before merging changes to master branch.
+  - Higher visibility on quality and stability of last day pull requests.
 
 ## References
 - [What STAR stands for](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method)

@@ -16,11 +16,15 @@ P.I.E. method can significantly enhance your chances of climbing the ladder of s
 
 ### Image: Building Relationships
 - **Develop Strong Interpersonal Skills:** Building positive relationships with colleagues and superiors opens doors to collaboration and mentorship.
+  - **ME** - Always get myself into a network of permanent staff and engineers from misc disciplines to get a clear picture where I can find potential challenges for improvement, from infra, to ops, networking to infra.
 - **Demonstrate Professionalism:** Be punctual, meet deadlines, and take ownership of your work.
+  - **ME** - Always to try to get first assignments delivered before deadline (*that is how you get respect, at the end of the road you want to get your contract extended more than once*), going beyond my initial responsibility, seeking for challenges where I can help people on infra and operational level, making friends (-:
 - **Seek Feedback and Act on It:** Regularly solicit constructive feedback from supervisors and colleagues to identify areas for improvement. Actively address their suggestions and adapt accordingly.
+  - **ME** - You should actively seek and identify gaps and gently forward proposals for improvements, trying to get feedback and open new challenges, again this might give you work as a contractor and potentially a contract extension, happened to me more than once (-;. All under the condition of course if you are feeling happy with the company culture and assignment.  
 
 ### Exposure: Maximizing Opportunities for Growth
-- **Take Initiative:** Volunteer for challenging assignments, lead projects, and take ownership of initiatives
+- **Take Initiative:** Volunteer for challenging assignments, lead projects, and take ownership of initiatives.
+  - **ME** - Take initiative and gently own the things that you are bringing forward (*at the end you want to get the credits*), be gentle and do not overrun yourself by getting in competition with permanent staff. 
 - **Network Effectively:** Actively build a strong professional network within and outside your organization. Attend industry events, join relevant associations, and engage with influential professionals.
 - **Seek Mentors and Sponsors:** Cultivate relationships with experienced professionals who can guide and advocate for you. Mentors provide valuable advice, while sponsors can actively promote your career advancement within the organization.
 

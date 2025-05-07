@@ -23,7 +23,7 @@
   5. Consolidate test results and send the outcome to a predefined MS Teams Channel for the team to get observed begin of day.
 - **Result** - This resulted in the following overall organizational performance improvements...
   - The overall nightly tests provided a quality gate preventing bugs slipping through into UAT and production releases.
-  - Bugs good get anticipated on in an early stage immediately next day morning.
+  - Bugs could get intercepted and anticipated on in an early stage immediately next day morning.
   - Leveraged a higher level of awareness with developers to put more emphasis on individual testing before merging changes to master branch.
 
 ## References

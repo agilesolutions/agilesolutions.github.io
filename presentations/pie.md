@@ -6,8 +6,13 @@ P.I.E. method can significantly enhance your chances of climbing the ladder of s
 
 ### Performance: The Foundation of Success
 - **Master Your Craft:** Continuously seek to improve your knowledge and skills in your chosen field. Stay updated with the latest trends, technologies, and best practices
+  - **ME** - Continue studying Azure AI foundation and Spring AI, sync up with my GitHub ShowCase project 
 - **Set Clear Goals:** Clearly define what you want to achieve and break it down into manageable milestones.
+  - **ME**
+    1. Complete Terraform and MS Azure Administration certification
+    2. Finishing off and progressing on Real Life Agentic AI ShowCase project on my Github.
 - **Embrace Continuous Learning:** Attend workshops, seminars, and conferences related to your industry to enhance your qualifications and broaden your skill set. 
+  - **ME** - Attending AI development Zurich MeetUp Group and seminars
 
 ### Image: Building Relationships
 - **Develop Strong Interpersonal Skills:** Building positive relationships with colleagues and superiors opens doors to collaboration and mentorship.

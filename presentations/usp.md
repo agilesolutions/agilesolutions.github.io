@@ -22,7 +22,7 @@ Your EP is a brief, persuasive speech that sparks interest in your business. It 
 **Example** : nightly running DevOps pipelines that build and test developer efforts committed on GIT before end-of-day and run a full integration test and report the results to Teams channels where teams can see the end results at the beginning of next working day.
 
 ## Creating a Compelling Call to Action (CTA)
-Your CTA is an invitation for your audience to take the next step. It should be clear, actionable, and aligned with your brand’s voice.
+Your CTA is an invitation for your audience to take the next step. It should be clear, actionable, and aligned with your initial contract assignment and IT landscape you are working in.
 
 **How to Craft a CTA:**
 1. **Be Clear:** Stay focussed and to the point. Use action-oriented language.

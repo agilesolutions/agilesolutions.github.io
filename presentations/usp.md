@@ -25,11 +25,11 @@ Your EP is a brief, persuasive speech that sparks interest in your business. It 
 Your CTA is an invitation for your audience to take the next step. It should be clear, actionable, and aligned with your brand’s voice.
 
 **How to Craft a CTA:**
-1. **Be Clear:** Avoid ambiguity. Use action-oriented language.
-2. **Create Urgency:** Encourage immediate action with limited time offers or special promotions.
-3. **Align with Goals:** Ensure your CTA aligns with your business objectives, whether it’s booking a consultation, signing up for a newsletter, or making a purchase.
+1. **Be Clear:** Stay focussed and to the point. Use action-oriented language.
+2. **Create Urgency:** Encourage immediate action to reduce the risk of business process disruption, rapidly improving overall organizational performances, things like that... 
+3. **Align with Goals:** Ensure your CTA aligns with your business objectives, generally you propose to pull in external consultancy (In my case RedHat Architects on my BJB case)for a quick POC to proofing and presenting the concept, like what I did with BJB OpenShift Docker container orchestration tooling together with RedHat Engineering CH. 
 
-**Example :** Example: Ready to transform your business’s energy use? Schedule a free consultation today!
+**Example :** Improve Agile Development process and ALM through containerization? Let's organize a POC with RedHat Architecture to assess the positive effect on our current development and software delivery processes.
 
 ## References
 - [Building a Unique Selling Proposition (USP), Elevator Pitch (EP), and Call to Action (CTA) to Attract Your Ideal Clients](https://www.kcsms.com.au/building-a-unique-selling-proposition-usp-elevator-pitch-ep-and-call-to-action-cta-to-attract-your-ideal-clients/)

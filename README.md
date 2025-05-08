@@ -58,3 +58,4 @@ This is entirely different from the generic AI we are used to, which is primaril
 4. [Developer skills](presentations/skills.md)
 5. [P.I.E. Method Performance, Image, and Exposure](presentations/pie.md)
 6. [The STAR method to preparing Interviews and structure your CV](presentations/star.md)
+7. [Building a Unique Selling Proposition (USP)](presentations/usp.md)

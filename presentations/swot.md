@@ -60,11 +60,11 @@ Threats are external factors that can have an adverse effect on your personal an
 - **Problem-Solving:** 
   - Ability to identify and fix technical errors and performance issues.
   - Know how to find solutions on the net and turn them into proposals to solving issues.
-- **Leadership:** You should be able to inspire, motivate, and guide other people. Leadership involves having the ability to influence people and help them reach their goals.
+- **Leadership:** Supportive and always there to inspire, motivate, and guide other people. Leadership involves having the ability to influence people and help them reach their goals.
 - **Organization:** You should be able to organize your tasks and prioritize them effectively. Being able to manage your time and resources efficiently can help you stay focused and achieve your goals.
 - **Creativity:** Develop and turn concepts you studied into something new and valuable for the organization.
-- **Adaptibility:** You should be able to adjust to changing environments and situations quickly. Being able to anticipate change and respond quickly can help you stay ahead of the competition and be successful.
-- **Resilience:** You should be able to handle stressful situations and recover from setbacks. Having the ability to stay focused and motivated in difficult times is an invaluable quality.
+- **Adaptibility:** Being able to adjust to changing environments and situations quickly. Being able to anticipate change and respond quickly can help you stay ahead of the competition and be successful.
+- **Resilience:** Really strong at handling stressful situations and recover from setbacks. Always staying focused and motivated in difficult times is an invaluable quality.
 - **Commitment and responsibility:** Properly document and respect company standards. On holidays do proper handover, seek team members to delegate to and document. When you as a contract going to leave the company, do a proper handover and document everything that still needs finishing off.
 ### Weaknesses
 - **Lack of knowledge:** Not really applicable, simply do not apply for contract assignments if you feel you are lacking practical experiences.

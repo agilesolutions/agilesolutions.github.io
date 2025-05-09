@@ -1,4 +1,4 @@
-# # How to Perform a SWOT Analysis
+# How to Perform a SWOT Analysis
 [<img src="../images/back.png">](../README.md)
 
 ## Introduction

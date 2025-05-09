@@ -20,5 +20,7 @@ It involves specifying the objective of the business venture or project and iden
 
 ## References
 - [Diversification & S.W.O.T](https://prezi.com/rp5czym4uxda/diversification-swot/)
+- [SWOT Analysis On Smart Diversification](https://swotanalytica.com/hbr/sodexos-ceo-on-smart-diversification.php)
+- [How to Perform a SWOT Analysis](https://www.investopedia.com/terms/s/swot.asp)
 
 [<img src="../images/back.png">](../README.md)

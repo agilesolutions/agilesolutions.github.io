@@ -60,3 +60,4 @@ This is entirely different from the generic AI we are used to, which is primaril
 6. [The STAR method to preparing Interviews and structure your CV](presentations/star.md)
 7. [Building a Unique Selling Proposition (USP)](presentations/usp.md)
 8. [Diversification & S.W.O.T](presentations/diversification.md)
+9. [How to Do a Personal SWOT Analysis](presentations/swot.md)

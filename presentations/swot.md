@@ -22,7 +22,7 @@ Identifying your strengths for a personal SWOT analysis is an important step in 
 3. **Leadership:**
    You should be able to inspire, motivate, and guide other people. Leadership involves having the ability to influence people and help them reach their goals.
 
-4. *Organization:**
+4. **Organization:**
    You should be able to organize your tasks and prioritize them effectively. Being able to manage your time and resources efficiently can help you stay focused and achieve your goals.
 
 5. **Creativity:**
@@ -35,7 +35,7 @@ Identifying your strengths for a personal SWOT analysis is an important step in 
    You should be able to handle stressful situations and recover from setbacks. Having the ability to stay focused and motivated in difficult times is an invaluable quality.
 8. **Commitment and responsibility:** Properly document and respect company standards. On holidays do proper handover, seek team members to delegate to and document. When you as a contract going to leave the company, do a proper handover and document everything that still needs finishing off.
 
-###Identify Your Weaknesses
+### Identify Your Weaknesses
 Identifying your weaknesses for doing a personal SWOT analysis can be a difficult task, but it is a necessary part of the process.
 *The first step to identifying your weaknesses is to take an honest look at yourself. Ask yourself questions such as:*
 - What do I need to improve on?
@@ -45,34 +45,36 @@ Identifying your weaknesses for doing a personal SWOT analysis can be a difficul
 - Lack of knowledge and skills.
 - Lack of confidence (It is important to identify the root of this lack of confidence and to work on building it up. This can be done through practice, self-reflection, and seeking out feedback.)
 
-###dentify Your Opportunities
+### identify Your Opportunities
 1. Make a List of Areas You Can Improve. Start by making a list of areas where you can improve. This could be anything from learning a new skill, taking a class, or improving your relationship with a colleague.
 2. Ask Other People for Their Suggestions. Once you’ve made your own list of opportunities and threats, it can be helpful to get feedback from others.
 
-###Identify Your Threats
+### Identify Your Threats
 Threats are external factors that can have an adverse effect on your personal and professional goals.  Examples of threats may include competitors, economic downturns, changes in technology.
 1. Make a List of Potential Obstacles. Start by making a list of potential obstacles that could prevent you from achieving your goals. Think about both external and internal threats. External threats could include economic downturns, competition. Internal threats could include things like a lack of resources, lack of knowledge, or limited time.
 2. Ask Other People for Their Opinions. You can also ask people who have similar goals or have achieved similar successes to see what obstacles they encountered.
 
 ## My Personal SWOT Analysis.
-###Strengths
+### Strengths
 - **Communication:** Positive, open, clear, transparent. Respect for other opinions (Best Idea wins Principal). Sharing knowledge the best I can to help team members. Always offering a helping hand once needed. Simply friendly in communication to other.
-- **Problem-Solving:** Nose for research, good at identifying issues and bringing up resolutions, first sharing that with the team to open discuss alternatives. Actually I never give up until I found the solution, but always try to pull in expertise once I feel I need it to progress on the issue and are potentially stuck (never wait too long).
-- **Leadership:**
-- **Organization:** 
-- **Creativity:**
-- **Adaptibility:**
-- **Resilience:**
-###Weaknesses
+- **Problem-Solving:** 
+  - Ability to identify and fix technical errors and performance issues.
+  - Know how to find solutions on the net and turn them into proposals to solving issues.
+- **Leadership:** You should be able to inspire, motivate, and guide other people. Leadership involves having the ability to influence people and help them reach their goals.
+- **Organization:** You should be able to organize your tasks and prioritize them effectively. Being able to manage your time and resources efficiently can help you stay focused and achieve your goals.
+- **Creativity:** Develop and turn concepts you studied into something new and valuable for the organization.
+- **Adaptibility:** You should be able to adjust to changing environments and situations quickly. Being able to anticipate change and respond quickly can help you stay ahead of the competition and be successful.
+- **Resilience:** You should be able to handle stressful situations and recover from setbacks. Having the ability to stay focused and motivated in difficult times is an invaluable quality.
+- **Commitment and responsibility:** Properly document and respect company standards. On holidays do proper handover, seek team members to delegate to and document. When you as a contract going to leave the company, do a proper handover and document everything that still needs finishing off.
+### Weaknesses
 - **Lack of knowledge:** Not really applicable, simply do not apply for contract assignments if you feel you are lacking practical experiences.
-###Opportunities
-- **New developments:** new technology developments like AI agentic and AI on cloud will let companies start new initiatives and potential start new projects, and so new job openings. Focused my studies on this topic so that I can benefit from this development.
+### Opportunities
+- **New developments:** new technology developments like AI agentic and AI on cloud will let companies start new initiatives and potentially initiate new projects, and so new job openings I can apply to. Focusing my study efforts on this topic so that I can benefit from this development.
 - 
-###Threats
+### Threats
 - **My age:**, most likely companies will not offer me a permanent job. Most companies are seeking for long term commitments, specifically in areas of new technologies where they feel they have to long-term invest in people. I have to stay with temporary assignments, this is what I did since 1991.
 - **Competition:** Lots of skilled experience engineers were laid off from companies like CS, SwissRE, all looking out for new opportunities begin 2025.
 - **Decrease job contract openings:** Number of offerings went down begin 2025, probably because of companies keeping them back on investing in new projects and developments.
-
 
 
 ## References

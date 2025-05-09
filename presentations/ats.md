@@ -33,7 +33,7 @@ This page is about how to format an ATS-friendly resume and how to optimize resu
     Consider utilizing professional resume services to optimize your LinkedIn profile further and ensure it meets ATS requirements. Services like Resume services can provide expert guidance on crafting a compelling LinkedIn profile that stands out to both ATS systems and hiring managers.
 
 ## References
-- [How to make your resume ATS-proof using LinkedIn and AI](https://www.linkedin.com/pulse/how-make-your-resume-ats-proof-using-linkedin-ai-van-beinum-zheye/)
-- [How to Make Your LinkedIn Profile ATS-Friendly](https://www.linkedin.com/pulse/how-make-your-linkedin-profile-ats-friendly-fhqxc/)
+1. [How to Make Your LinkedIn Profile ATS-Friendly](https://www.linkedin.com/pulse/how-make-your-linkedin-profile-ats-friendly-fhqxc/)
+2. [How to make your resume ATS-proof using LinkedIn and AI](https://www.linkedin.com/pulse/how-make-your-resume-ats-proof-using-linkedin-ai-van-beinum-zheye/)
 
 [<img src="../images/back.png">](../README.md)

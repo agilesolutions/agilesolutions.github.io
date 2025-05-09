@@ -12,7 +12,7 @@ SWOT Analysis is a technique used by **individuals** (or businesses) to assess t
 ## Steps to Doing a Personal SWOT Analysis
 Identifying your strengths for a personal SWOT analysis is an important step in understanding the **skills, abilities, and qualities** that make you successful.
 
-###1. Identify Your Strengths
+### Identify Your Strengths
 1. Communication:
    Your ability to effectively communicate with people is one of your greatest strengths. You should be able to articulate your thoughts clearly and concisely, both verbally and written. Your communication skills can help you build relationships, collaborate effectively, and resolve conflicts.
 
@@ -34,7 +34,7 @@ Identifying your strengths for a personal SWOT analysis is an important step in 
 7. Resilience:
    You should be able to handle stressful situations and recover from setbacks. Having the ability to stay focused and motivated in difficult times is an invaluable quality.
 
-###2. Identify Your Weaknesses
+###Identify Your Weaknesses
 Identifying your weaknesses for doing a personal SWOT analysis can be a difficult task, but it is a necessary part of the process.
 *The first step to identifying your weaknesses is to take an honest look at yourself. Ask yourself questions such as:*
 - What do I need to improve on?
@@ -44,17 +44,17 @@ Identifying your weaknesses for doing a personal SWOT analysis can be a difficul
 - Lack of knowledge and skills.
 - Lack of confidence (It is important to identify the root of this lack of confidence and to work on building it up. This can be done through practice, self-reflection, and seeking out feedback.)
 
-###3. Identify Your Opportunities
+###dentify Your Opportunities
 1. Make a List of Areas You Can Improve. Start by making a list of areas where you can improve. This could be anything from learning a new skill, taking a class, or improving your relationship with a colleague.
 2. Ask Other People for Their Suggestions. Once you’ve made your own list of opportunities and threats, it can be helpful to get feedback from others.
 
-###4. Identify Your Threats
+###Identify Your Threats
 Threats are external factors that can have an adverse effect on your personal and professional goals.  Examples of threats may include competitors, economic downturns, changes in technology.
 1. Make a List of Potential Obstacles. Start by making a list of potential obstacles that could prevent you from achieving your goals. Think about both external and internal threats. External threats could include economic downturns, competition. Internal threats could include things like a lack of resources, lack of knowledge, or limited time.
 2. Ask Other People for Their Opinions. You can also ask people who have similar goals or have achieved similar successes to see what obstacles they encountered.
 
 ## My Personal SWOT Analysis.
-###1. Strengths
+###Strengths
 - **Communication:** Positive, open, clear, transparent. Respect for other opinions (Best Idea wins Principal). Sharing knowledge the best I can to help team members. Always offering a helping hand once needed. Simply friendly in communication to other.
 - **Problem-Solving:** Nose for research, good at identifying issues and bringing up resolutions, first sharing that with the team to open discuss alternatives. Actually I never give up until I found the solution, but always try to pull in expertise once I feel I need it to progress on the issue and are potentially stuck (never wait too long).
 - **Leadership:**
@@ -62,12 +62,12 @@ Threats are external factors that can have an adverse effect on your personal an
 - **Creativity:**
 - **Adaptibility:**
 - **Resilience:**
-###2. Weaknesses
+###Weaknesses
 - **Lack of knowledge:** Not really applicable, simply do not apply for contract assignments if you feel you are lacking practical experiences.
-###3. Opportunities
+###Opportunities
 - **New developments:** new technology developments like AI agentic and AI on cloud will let companies start new initiatives and potential start new projects, and so new job openings. Focused my studies on this topic so that I can benefit from this development.
 - 
-###4. Threats
+###Threats
 - **My age:**, most likely companies will not offer me a permanent job. Most companies are seeking for long term commitments, specifically in areas of new technologies where they feel they have to long-term invest in people. I have to stay with temporary assignments, this is what I did since 1991.
 
 

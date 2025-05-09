@@ -70,7 +70,6 @@ Threats are external factors that can have an adverse effect on your personal an
 - **Lack of knowledge:** Not really applicable, simply do not apply for contract assignments if you feel you are lacking practical experiences.
 ### Opportunities
 - **New developments:** new technology developments like AI agentic and AI on cloud will let companies start new initiatives and potentially initiate new projects, and so new job openings I can apply to. Focusing my study efforts on this topic so that I can benefit from this development.
-- 
 ### Threats
 - **My age:**, most likely companies will not offer me a permanent job. Most companies are seeking for long term commitments, specifically in areas of new technologies where they feel they have to long-term invest in people. I have to stay with temporary assignments, this is what I did since 1991.
 - **Competition:** Lots of skilled experience engineers were laid off from companies like CS, SwissRE, all looking out for new opportunities begin 2025.

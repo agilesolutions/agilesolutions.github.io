@@ -69,6 +69,8 @@ Threats are external factors that can have an adverse effect on your personal an
 - 
 ###Threats
 - **My age:**, most likely companies will not offer me a permanent job. Most companies are seeking for long term commitments, specifically in areas of new technologies where they feel they have to long-term invest in people. I have to stay with temporary assignments, this is what I did since 1991.
+- **Competition:** Lots of skilled experience engineers were laid off from companies like CS, SwissRE, all looking out for new opportunities begin 2025.
+- **Decrease job contract openings:** Number of offerings went down begin 2025, probably because of companies keeping them back on investing in new projects and developments.
 
 
 

@@ -13,26 +13,27 @@ SWOT Analysis is a technique used by **individuals** (or businesses) to assess t
 Identifying your strengths for a personal SWOT analysis is an important step in understanding the **skills, abilities, and qualities** that make you successful.
 
 ### Identify Your Strengths
-1. Communication:
+1. **Communication:**
    Your ability to effectively communicate with people is one of your greatest strengths. You should be able to articulate your thoughts clearly and concisely, both verbally and written. Your communication skills can help you build relationships, collaborate effectively, and resolve conflicts.
 
-2. Problem-Solving:
+2. **Problem-Solving:**
    You should be able to identify problems, analyze them, and come up with creative solutions to address them. Being able to anticipate potential problems and develop strategies to prevent them is an invaluable skill.
 
-3. Leadership:
+3. **Leadership:**
    You should be able to inspire, motivate, and guide other people. Leadership involves having the ability to influence people and help them reach their goals.
 
-4. Organization:
+4. *Organization:**
    You should be able to organize your tasks and prioritize them effectively. Being able to manage your time and resources efficiently can help you stay focused and achieve your goals.
 
-5. Creativity:
+5. **Creativity:**
    You should be able to think outside the box and come up with innovative solutions to complex problems. Being able to think creatively can help you stay ahead of the competition and develop new ideas and products.
 
-6. Adaptability:
+6. **Adaptability:**
    You should be able to adjust to changing environments and situations quickly. Being able to anticipate change and respond quickly can help you stay ahead of the competition and be successful.
 
-7. Resilience:
+7. **Resilience:**
    You should be able to handle stressful situations and recover from setbacks. Having the ability to stay focused and motivated in difficult times is an invaluable quality.
+8. **Commitment and responsibility:** Properly document and respect company standards. On holidays do proper handover, seek team members to delegate to and document. When you as a contract going to leave the company, do a proper handover and document everything that still needs finishing off.
 
 ###Identify Your Weaknesses
 Identifying your weaknesses for doing a personal SWOT analysis can be a difficult task, but it is a necessary part of the process.

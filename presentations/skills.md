@@ -2,8 +2,8 @@
 [<img src="../images/back.png">](../README.md)
 
 ## Soft Skills
-- Collaboration and Teamwork: share knowledge, contribute to friendly and respectful culture.
-- Problem-solving: 
+- **Collaboration and Teamwork:** share knowledge, contribute to friendly and respectful culture.
+- **Problem-solving:** 
   - ability to identify and fix technical errors and performance issues. 
   - Know how to find solutions on the net and turn them into proposals to solving issues.
 - **Creativity:** Develop and turn concepts you studied into something new and valuable for the organization.

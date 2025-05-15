@@ -62,4 +62,4 @@ This is entirely different from the generic AI we are used to, which is primaril
 7. [Building a Unique Selling Proposition (USP)](presentations/usp.md)
 8. [Diversification & S.W.O.T](presentations/diversification.md)
 9. [How to Do a Personal SWOT Analysis](presentations/swot.md)
-10. [SMART]()
+10. [SMART](presentations/smart.md)

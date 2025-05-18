@@ -10,7 +10,7 @@ Next frontier of AI world is Agentic AI with Agents that plan and act autonomous
 This will at the end improve the overall organization performance. You can think about letting Agents being responsible for data entry, data analysis and inventory management and so on.
 This is entirely different from the generic AI we are used to, which is primarily focused on content generation and back and forth conversations with humans.
 ## AI Trader Use Case
-[see the presentation](ppt/ai-trader.pptx) 
+[see the presentation](ppt/ai-trader.pdf) 
 
 ### Agentic AI goes through four-step approach for doing its things:
 1. **Preceive** : sensing for additional data on top of what it was learned on from various sources, such as proprietary database, digital interfaces, REST API and so on.

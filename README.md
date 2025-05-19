@@ -4,7 +4,7 @@ Specialized in optimizing software development processes to enhance productivity
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
 ## ShowCasing Agentic AI with Spring AI, running on Azure AKS and AI Foundry
-At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/poc-mcp-client/).
+At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/ai-trader/).
 ## About the AI Trader Use Case
 This Use Case is about an AI Agent that is autonomously doing the following:
 - **Fetches** [real-time Stock Price Trends](https://twelvedata.com/) and [real-time Crypto Trends](https://finnhub.io/)

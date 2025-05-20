@@ -14,7 +14,7 @@
 
 ### Story no 1.
 - **Situation** - Project X was lacking fully automated regression testing for all services participating on Quarterly runs. At the moment too many bugs slipped through to higher order environments like UAT, and Production.
-- **Task** - The project team decided to implement a fully automated End-to-End regression and QA testing pipeline, scheduled each night to test and filter out potential programming bugs, preventing these problems to causing disruption on production environments.   
+- **Task** - I was assigned the task to implement a fully automated End-to-End regression and QA testing pipeline, scheduled each night to test and filter out potential programming bugs, preventing these problems to causing disruption on production environments.   
 - **Action** - After having presented my design proposal to the team I worked out a solution to have a set of integration tests running on nightly build and test pipelines. These QA tests were designed against pre-defined data sets to provide a full test coverage of all logic under development.
 Details on failing tests were directly reported on a dedicated Teams Channel from where developers could see the results early morning.
 - **Result** - This resulted in the following overall organizational performance improvements. 
@@ -24,7 +24,7 @@ Details on failing tests were directly reported on a dedicated Teams Channel fro
 
 ### Story no 2.
 - **Situation** - Bank X was looking for a solution to automating the deployment of core banking solutions running on Linux OS. That overall process needed to get reduced from days to hours. (This was before containerization technologies era.) 
-- **Task** - In my role as Solution Architect I researched different alternatives and finally proposed to Management and Red Hat Architects to use their Satellite provisioning tool and RPM software packaging solution to deploying banking solutions. Initially this facility was designed to allow RH engineers to deploy, configure and maintain their core Linux platforms. 
+- **Task** - In my role as Solution Architect I researched different alternatives and finally proposed to Management and Red Hat Architects to use their Satellite provisioning tool and RPM software packaging solution to deploying banking solutions. Initially this facility was designed to allow RH engineers to deploy, configure and maintain their core Linux platforms. After presentations to the management my proposal was approved. I was assigned the task to design and implement the solution as proposed in my presentation. 
 - **Action** - I Developed an 3-tier (UI, logic and DB) Application enabling operations to configure banking applications. That same application used RH Satellite provisioning and RPM packaging tools to distribute complex Banking Enterprise applications with one simple key-click, instead of hours manual configuration and testing. 
 - **Result** - The bank decided to introduce Temenos T24 as its core banking platform on its branch in Singapore. Without the solution described above an average release cycle would have taken up a whole weekend. With the introduction of the automation solution that was reduced to hours. 
 

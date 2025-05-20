@@ -29,8 +29,8 @@ Details on failing tests were directly reported on a dedicated Teams Channel fro
 - **Result** - The bank decided to introduce Temenos T24 as its core banking platform on its branch in Singapore. Without the solution described above an average release cycle would have taken up a whole weekend. With the introduction of the automation solution that was reduced to hours. 
 
 ### Story no 3
-- **Situation** - Bank X was slowly getting behind on latest state of technologies related to containerization. However, meanwhile Agile development practises where in place and there was a need of continuous integration, delivery and deployment.
-- **Task** -
+- **Situation** - Bank X was slowly getting behind on latest state of technologies related to containerization. However, meanwhile Agile development practises were emerging, demanding continuous integration, delivery and deployment facilities.
+- **Task** - In my role as Solution Architect I studied Container technologies and container orchestration and scheduling platforms like Red Hat Openshift. I proposed to the Management and RH Architecture to start a POC project with SWOT analysis. My proposal and a budget got approved, which resulted in a 3 weeks POC project with end presentation to the management. 
 - **Action** -
 - **Result** -
   

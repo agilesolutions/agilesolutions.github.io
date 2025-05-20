@@ -20,16 +20,16 @@ Details on failing tests were directly reported on a dedicated Teams Channel fro
 - **Result** - This resulted in the following overall organizational performance improvements. 
   - The overall nightly tests provided a quality gate preventing bugs slipping through into UAT and production releases. The project could now release with a higher frequency with the confident feeling that potential bugs were filtered out.
   - Leveraged a higher level of awareness with developers to put more emphasis and energy on individual testing before delivering there efforts into the next release.
-  - My solution resulted in a overall higher level of stability of software delivered at the end of a Scrum Sprint.
+  - My solution resulted in an overall higher level of stability of software delivered at the end of a Scrum Sprint.
 
 ### Story no 2.
-- **Situation** -
-- **Task** -
-- **Action** -
-- **Result** -
+- **Situation** - Bank X was looking for a solution to automating the deployment of core banking solutions running on Linux OS. That overall process needed to get reduced from days to hours. (This was before containerization technologies era.) 
+- **Task** - In my role as Solution Architect I researched different alternatives and finally proposed to Management and Red Hat Architects to use their Satellite provisioning tool and RPM software packaging solution to deploying banking solutions. Initially this facility was designed to allow RH engineers to deploy, configure and maintain their core Linux platforms. 
+- **Action** - I Developed an 3-tier (UI, logic and DB) Application enabling operations to configure banking applications. That same application used RH Satellite provisioning and RPM packaging tools to distribute complex Banking Enterprise applications with one simple key-click, instead of hours manual configuration and testing. 
+- **Result** - The bank decided to introduce Temenos T24 as its core banking platform on its branch in Singapore. Without the solution described above an average release cycle would have taken up a whole weekend. With the introduction of the automation solution that was reduced to hours. 
 
-### Story no 3 (the setting: 2nd largest newspaper publishign).
-- **Situation** -
+### Story no 3
+- **Situation** - Bank X was slowly getting behind on latest state of technologies related to containerization. However, meanwhile Agile development practises where in place and there was a need of continuous integration, delivery and deployment.
 - **Task** -
 - **Action** -
 - **Result** -

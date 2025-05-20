@@ -30,9 +30,9 @@ Details on failing tests were directly reported on a dedicated Teams Channel fro
 
 ### Story no 3
 - **Situation** - Bank X was slowly getting behind on latest state of technologies related to containerization. However, meanwhile Agile development practises were emerging, demanding continuous integration, delivery and deployment facilities.
-- **Task** - In my role as Solution Architect I studied Container technologies and container orchestration and scheduling platforms like Red Hat Openshift. I proposed to the Management and RH Architecture to start a POC project with SWOT analysis. My proposal and a budget got approved, which resulted in a 3 weeks POC project with end presentation to the management. 
-- **Action** -
-- **Result** -
+- **Task** - In my role as Solution Architect I studied Container technologies and container orchestration and scheduling platforms like Red Hat Openshift. I proposed to the Management and Red Hat Architecture to start a POC project with SWOT analysis. My proposal and budget got approved. My task was to organize a 3 weeks POC project with RH architects together and providing an end presentation to the management.  
+- **Action** - RH engineers deployed a full OpenShift Kubernetes cluster as a preparation to get started with that POC. I provided the technology to containerizing one of the banking solutions and run misc deployment scenarios from Jenkins CI/CD pipelines and conducted a full SWOT analysis, compiling the results on an end presentation.  
+- **Result** - After that end presentation it was decided to initiate the first Openshift Kubernetes cluster on the bank. For RH this was supposed to be the first OpenShift implementation with a Swiss Bank. This POC initiative opened the doors to a company-wide rollout of container technology.
   
 ## References
 - [What STAR stands for](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method)

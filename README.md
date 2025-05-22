@@ -15,6 +15,7 @@ The code on this product is demonstrating how to develop the core logic with Jav
   - Provision AD Extra ID managed identities and RBAC rules.
   - Provision MySQL Flexible Server and Database to store stock portfolio records.
   - Provision Azure AI Foundry project, Storage Accounts and Containers and AZ key vaults and policies.
+
 ## About the AI Trader Use Case
 This Use Case is about an AI Agent that is autonomously doing the following:
 - **Fetches** [real-time Stock Price Trends](https://twelvedata.com/) and [real-time Crypto Trends](https://finnhub.io/)

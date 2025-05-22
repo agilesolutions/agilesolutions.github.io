@@ -5,6 +5,16 @@ With focus on Spring and JEE development, build and release management, testing,
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
 ## ShowCasing Agentic AI with Spring AI, running on Azure AKS and AI Foundry
 At the moment my main focus goes out to experimenting with AI Agent enabling existing business running with SpringBoot on Azure kubernetes and connecting to Azure AI Foundry. Everything related to AI development I studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/ai-trader/).
+## Full End-to-End, from Development, CI/CD, Deployment to Provisioning
+The code on this product is demonstrating how to develop the core logic with Java and Spring AI, Azure DevOps pipelines to  CI/CD deliver that logic on Azure ACR container registry and finally use Terraform to provision Azure AKS cluster, Azure Flexible server and Azure AI Foundry to provision everything needed to run this process.
+- SpringBoot application Build process managed with Gradle.
+- Azure DevOps pipelines to build, run Spring AI JUnit Relevancy Factuality AI tests, HELM package and deploy application on Azure AKS cluster.
+- HELM charts to package and deploy Spring AI application
+- Terraform manifests:
+  - Build AKS Cluster.
+  - Provision AD Extra ID managed identities and RBAC rules.
+  - Provision MySQL Flexible Server and Database to store stock portfolio records.
+  - Provision Azure AI Foundry project, Storage Accounts and Containers and AZ key vaults and policies.
 ## About the AI Trader Use Case
 This Use Case is about an AI Agent that is autonomously doing the following:
 - **Fetches** [real-time Stock Price Trends](https://twelvedata.com/) and [real-time Crypto Trends](https://finnhub.io/)

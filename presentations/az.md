@@ -6,6 +6,10 @@
 - az aks get-credentials --resource-group aks-rg1 --name aksdemo1
 - az aks get-credentials --resource-group myResourceGroup --name myManagedCluster --admin
 - az aks get-credentials --resource-group aks-rg3 --name aksdemo3 --overwrite-existing
+- az aks enable-addons
+- az aks list-addons
+- az aks enable-addons --addons azure-keyvault-secrets-provider --name myAKSCluster --resource-group myResourceGroup
+- kubectl get pods -n kube-system -l 'app in (secrets-store-csi-driver,secrets-store-provider-azure)'
 
 
 ## KUBECTL
@@ -33,6 +37,7 @@ Password: @AKSADAuth1011
 
 ## References AZ CLI
 - [az aks](https://learn.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest)
+- [AZ AKS ADDON](https://learn.microsoft.com/en-us/cli/azure/aks/addon?view=azure-cli-latest)
 - [AKS Cheat Sheet](https://gist.github.com/yokawasa/fd9d9b28f7c79461f60d86c23f615677)
 - [az aks command](https://learn.microsoft.com/de-de/cli/azure/aks/command?view=azure-cli-latest)
 - [kubectl config](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_config/)

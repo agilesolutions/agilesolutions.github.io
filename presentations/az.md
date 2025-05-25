@@ -51,7 +51,7 @@ Password: @AKSADAuth1011
 - [*Use the Azure Key Vault provider for Secrets Store CSI Driver in an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 - [Tutorial: Use dynamic configuration in Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
 
-## Azure Key Vault Secret and App Config AKS providers
+## Azure Secret Store CSI Driver
 What is Kubernetes CSI (Container Storage Interface)? CSI is a standard that helps provide drivers as an extension to expose arbitrary block and file storage systems to containerized workloads on Kubernetes,
 and establish connectivity between storage systems and Kubernetes. Azure makes this integration straightforward by allowing you to enable the **Secret Store CSI Driver** directly on your AKS cluster.
 
@@ -62,6 +62,27 @@ and establish connectivity between storage systems and Kubernetes. Azure makes t
 - [Medium: Securing Secrets: Building a Private-Access Azure Key Vault Integration with Azure Kubernetes Service Using Terraform](https://medium.com/@newfishg/securing-secrets-building-a-private-access-azure-key-vault-integration-with-azure-kubernetes-d9df939dfd88)
 - [Remi: Configuring Secret Store CSI Driver with Terraform: A Guide to Secure Secrets Management in Azure Kubernetes Service](https://www.remiceraline.com/blog/configuring-secret-store-csi-driver-with-terraform-a-guide-to-secure-secrets-management-in-azure-kubernetes-service)
 
+## Azure App Configuration Kubernetes provider
+The Azure App Configuration Kubernetes provider runs as a container in your cluster.
+- Seamless integration: Pulls data from Azure App Configuration and Key Vault, making them accessible as ConfigMap and Secret without code changes in your workloads.
+- Dynamic update: Built-in caching and refreshing capabilities for dynamic configuration, feature flagging, and automatic secret rotation.
+
+### Read
+- [Medium: [2/4] Configuring App Configuration to expose environment variables to Azure Kubernetes Services](https://medium.com/@bashaus/2-4-configuring-app-configuration-to-expose-environment-variables-to-azure-kubernetes-services-273664df35e0)
+- [Medium: [3/4] Configuring Key Vault to expose environment variables to Azure Kubernetes Services](https://medium.com/@bashaus/3-4-configuring-key-vault-to-expose-environment-variables-to-azure-kubernetes-services-48b633ec9e67)
+- [Quickstart: Generate ConfigMap from Azure App Configuration](https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration-quickstart)
+- [HELM: Azure App Configuration Kubernetes Provider](https://mcr.microsoft.com/artifact/mar/azure-app-configuration/kubernetes-provider/about)
+
+**NOTE: ** Azure App Configuration Kubernetes Provider is a Kubernetes controller that integrates Azure App Configuration with Kubernetes. The provider gets key-values and Key Vault references from Azure App Configuration and builds them into Kubernetes ConfigMaps and Secrets.
+This will configure new services via a helm chart that will be applied to your azappconfig-system namespace. To test if the installation was successful, simply run:
+```
+helm install azureappconfiguration.kubernetesprovider \
+     oci://mcr.microsoft.com/azure-app-configuration/helmchart/kubernetes-provider \
+     --namespace azappconfig-system \
+     --create-namespace
+     
+kubectl get azureappconfigurationprovider
+```
 ## Container logs and AZ Monitor
 What is Kubernetes CSI (Container Storage Interface)? CSI is a standard that helps provide drivers as an extension to expose arbitrary block and file storage systems to containerized workloads on Kubernetes,
 and establish connectivity between storage systems and Kubernetes

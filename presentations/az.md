@@ -31,7 +31,7 @@ Username: user1aksadmin@stacksimplifygmail.onmicrosoft.com
 Password: @AKSADAuth1011
 ```
 
-## References
+## References AZ CLI
 - [az aks](https://learn.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest)
 - [AKS Cheat Sheet](https://gist.github.com/yokawasa/fd9d9b28f7c79461f60d86c23f615677)
 - [az aks command](https://learn.microsoft.com/de-de/cli/azure/aks/command?view=azure-cli-latest)
@@ -43,5 +43,13 @@ Password: @AKSADAuth1011
 - [*[3/4] Configuring Key Vault to expose environment variables to Azure Kubernetes Services](https://medium.com/@bashaus/3-4-configuring-key-vault-to-expose-environment-variables-to-azure-kubernetes-services-48b633ec9e67)
 - [*Use the Azure Key Vault provider for Secrets Store CSI Driver in an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 - [Tutorial: Use dynamic configuration in Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
+
+## Azure Key Vault Secret and App Config AKS providers
+- [MS: Use the Azure Key Vault provider for Secrets Store CSI Driver in an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
+- [MS: Connect your Azure identity provider to the Azure Key Vault Secrets Store CSI Driver in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-identity-access?tabs=azure-portal&pivots=access-with-service-connector)
+- [Medium: Azure Key Vault integration with Azure Kubernetes Cluster (AKS)](https://medium.com/@sachin.prabhakar.ingle/azure-key-vault-integration-with-azure-kubernetes-cluster-aks-eba940f845cc)
+- [DEV.TO: Securing Kubernetes Secrets in AKS: Using Azure Key Vault with Managed and User Assigned Identities](https://dev.to/hkhelil/securing-kubernetes-secrets-in-aks-using-azure-key-vault-with-managed-and-user-assigned-identities-569k)
+- [Medium: Securing Secrets: Building a Private-Access Azure Key Vault Integration with Azure Kubernetes Service Using Terraform](https://medium.com/@newfishg/securing-secrets-building-a-private-access-azure-key-vault-integration-with-azure-kubernetes-d9df939dfd88)
+- [Remi: Configuring Secret Store CSI Driver with Terraform: A Guide to Secure Secrets Management in Azure Kubernetes Service](https://www.remiceraline.com/blog/configuring-secret-store-csi-driver-with-terraform-a-guide-to-secure-secrets-management-in-azure-kubernetes-service)
 
 [<img src="../images/back.png">](../README.md)

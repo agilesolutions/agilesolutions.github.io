@@ -9,6 +9,8 @@
 - az aks enable-addons
 - az aks list-addons
 - az aks enable-addons --addons azure-keyvault-secrets-provider --name myAKSCluster --resource-group myResourceGroup
+- az aks update -n MyAKSCluster -g MyResourceGroup --enable-secret-store-csi-driver
+- kubectl get pods -n kube-system
 - kubectl get pods -n kube-system -l 'app in (secrets-store-csi-driver,secrets-store-provider-azure)'
 
 
@@ -59,5 +61,21 @@ and establish connectivity between storage systems and Kubernetes. Azure makes t
 - [DEV.TO: Securing Kubernetes Secrets in AKS: Using Azure Key Vault with Managed and User Assigned Identities](https://dev.to/hkhelil/securing-kubernetes-secrets-in-aks-using-azure-key-vault-with-managed-and-user-assigned-identities-569k)
 - [Medium: Securing Secrets: Building a Private-Access Azure Key Vault Integration with Azure Kubernetes Service Using Terraform](https://medium.com/@newfishg/securing-secrets-building-a-private-access-azure-key-vault-integration-with-azure-kubernetes-d9df939dfd88)
 - [Remi: Configuring Secret Store CSI Driver with Terraform: A Guide to Secure Secrets Management in Azure Kubernetes Service](https://www.remiceraline.com/blog/configuring-secret-store-csi-driver-with-terraform-a-guide-to-secure-secrets-management-in-azure-kubernetes-service)
+
+## Container logs and AZ Monitor
+What is Kubernetes CSI (Container Storage Interface)? CSI is a standard that helps provide drivers as an extension to expose arbitrary block and file storage systems to containerized workloads on Kubernetes,
+and establish connectivity between storage systems and Kubernetes
+
+1. By default, Spring Boot uses Logback as its logging framework. To switch to Log4j, you'll need to exclude Logback and include Log4j in your project.
+2. As a default, Docker uses the json-file logging driver, which caches container logs as JSON internally.
+3. Azure Monitor Container insights collect custom metrics for nodes, pods, containers, and persistent volumes.
+   ---- Container Insights is a feature of Azure Monitor that collects and analyzes container logs from Azure Kubernetes clusters
+4. Container insights store most of its data in a Log Analytics workspace, and you typically use the same log analytics workspace as the resource logs for your cluster.
+   --- Kubernetes manages the symlinks in /var/log/container/* when Pod containers start or stop to point to the logfile of the underlying container runtime.
+
+Azure Monitor Container insights collect custom metrics for nodes, pods, containers, and persistent volumes. For more information, see Metrics collected by Container insights.
+
+Azure Monitor is a comprehensive monitoring solution for collecting, analyzing, and responding to monitoring data from your cloud and on-premises environments.
+Log Analytics is a tool in the Azure portal to edit and run log queries from data collected by Azure Monitor logs
 
 [<img src="../images/back.png">](../README.md)

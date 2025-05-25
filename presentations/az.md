@@ -45,6 +45,9 @@ Password: @AKSADAuth1011
 - [Tutorial: Use dynamic configuration in Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
 
 ## Azure Key Vault Secret and App Config AKS providers
+What is Kubernetes CSI (Container Storage Interface)? CSI is a standard that helps provide drivers as an extension to expose arbitrary block and file storage systems to containerized workloads on Kubernetes,
+and establish connectivity between storage systems and Kubernetes. Azure makes this integration straightforward by allowing you to enable the **Secret Store CSI Driver** directly on your AKS cluster.
+
 - [MS: Use the Azure Key Vault provider for Secrets Store CSI Driver in an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 - [MS: Connect your Azure identity provider to the Azure Key Vault Secrets Store CSI Driver in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-identity-access?tabs=azure-portal&pivots=access-with-service-connector)
 - [Medium: Azure Key Vault integration with Azure Kubernetes Cluster (AKS)](https://medium.com/@sachin.prabhakar.ingle/azure-key-vault-integration-with-azure-kubernetes-cluster-aks-eba940f845cc)

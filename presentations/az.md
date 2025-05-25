@@ -68,6 +68,7 @@ The Azure App Configuration Kubernetes provider runs as a container in your clus
 - Dynamic update: Built-in caching and refreshing capabilities for dynamic configuration, feature flagging, and automatic secret rotation.
 
 ### Read
+- [Medium: Azure Ap Configuration service](https://medium.com/@barbieri.santiago/azure-app-configuration-service-2ffe9b31e914)
 - [Azure App Configuration Kubernetes Provider reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-kubernetes-provider?tabs=default)
 - [Medium: Configuring App Configuration to expose environment variables to Azure Kubernetes Services](https://medium.com/@bashaus/2-4-configuring-app-configuration-to-expose-environment-variables-to-azure-kubernetes-services-273664df35e0)
 - [Quickstart: Generate ConfigMap from Azure App Configuration](https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration-quickstart)

@@ -12,6 +12,19 @@
 - **Action** - the action you took
 - **Result** - what happened as a result of your action and what you learned from the experience
 
+### Star Template
+- **Situation:** 1-2 sentences
+- **Task:** 2-3 sentences
+- **Action:** 3-4 sentences
+- **Result:** 2-3 
+
+### Example 
+Think of a real life example of when you had to manage challenging stakeholders. Diffuse the story into 4 sections. Max 10 sentences!
+- **SITUATION:** 1-2 sentences, OVERVIEW, FACTS. The project was over budget when I took over….
+- **TASK:** 2-3 sentences, PLAN, COURSE OF ACTION. I gathered the team for a quick audit, decided to….
+- **ACTIONS:** 3-4 sentences, ACTIONS, «I»-STATEMENTS. I reached out to every SH individually first, for a …..
+- **RESULTS:** 2-3 sentences, FACTS, FIGURES. I gained an extended timeline and a larger budget to combine another project into ours. In the end….
+
 ### Story no 1.
 - **Situation** - Project X was lacking fully automated regression testing for all services participating on Quarterly runs. At the moment too many bugs slipped through to higher order environments like UAT, and Production.
 - **Task** - I was assigned the task to implement a fully automated End-to-End regression and QA testing pipeline, scheduled each night to test and filter out potential programming bugs, preventing these problems to causing disruption on production environments.   

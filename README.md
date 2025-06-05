@@ -85,3 +85,4 @@ This is entirely different from the generic AI we are used to, which is primaril
 10. [SMART](presentations/smart.md)
 11. [AZ commands](presentations/az.md)
 12. [AZ VM's and Networking](presentations/az-networking.md)
+13. [Data Lakehouses Architecture](presentations/lakehouse.md)

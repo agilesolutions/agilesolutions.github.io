@@ -1,0 +1,54 @@
+Ja, je hebt **zeker kans** – maar er zijn een paar belangrijke nuances als het gaat om **65+ werken bij de Nederlandse overheid**.
+
+---
+
+## 1. Vraag naar jouw profiel
+
+* **Technische fit**: jouw profiel (40 jaar ervaring, 15 jaar hands-on met Java/Spring Boot/microservices/Kubernetes/DevOps/Cloud/Monitoring) is exact waar veel overheids-ICT-projecten mee worstelen.
+* Veel overheden (ministeries, Belastingdienst, UWV, DUO, gemeenten, provincies) hebben grote **legacy systemen** die migreren naar **cloud-native microservices**. Daar zijn mensen met jouw achtergrond schaars.
+* Zeker in de **financiële sector** is de schaalbaarheid/veiligheid vergelijkbaar met de overheid (compliance, security, data-integriteit). Dat maakt jouw ervaring extra aantrekkelijk.
+
+---
+
+## 2. Leeftijd & 65+
+
+* In Nederland geldt **geen wettelijke pensioenleeftijdsgrens** voor werken bij de overheid. Ook na 65/67 kun je gewoon werken.
+* Veel wordt geregeld via **detachering of inhuur** (bv. via detacheringsbureaus of ZZP-contracten). Dit omzeilt formele beperkingen op vaste aanstellingen.
+* Er is juist een **tekort aan senior IT’ers**: de overheid zet vaak senior consultants in via raamcontracten met leveranciers.
+
+---
+
+## 3. Kansrijke routes
+
+1. **ZZP / Freelance via aanbestedingen**
+
+   * De Rijksoverheid, Belastingdienst, UWV, DUO, Politie etc. werken vaak via het **DigiInhuur-portaal**.
+   * Grote detacheerders (bv. HeadFirst, Between, Yacht, LINKIT) hebben raamcontracten en zoeken actief senior Java/Kubernetes/Cloud engineers.
+   * Hier wordt **ervaring zwaarder gewaardeerd dan leeftijd**.
+
+2. **Consultancy / interim**
+
+   * Jij kunt binnenkomen als **Solution Architect, Lead Developer of DevOps Expert** bij projecten waar kennisoverdracht belangrijk is.
+   * Overheden hebben vaak behoefte aan mentoren die teams begeleiden in de transitie naar cloud/microservices.
+
+3. **Directe overheidsbanen**
+
+   * Lastiger, omdat vaste contracten soms leeftijdsgerelateerd terughoudend benaderd worden. Maar het **is niet uitgesloten** (zeker bij kennisinstellingen zoals Logius, Rijkswaterstaat, Justitie).
+
+---
+
+## 4. Praktische tips
+
+* Positioneer je profiel niet als “65+ developer” maar als **“senior expert / architect / coach met bewezen cloud-native ervaring in gereguleerde sectoren”**.
+* Benadruk dat je **kennisoverdracht** en **teamcoaching** kunt doen. Veel jonge teams hebben daar behoefte aan.
+* Richt je op **projectmatige inhuur via leveranciers met raamcontracten**. Daar heb je de meeste kans en minder last van formele HR-beperkingen.
+* Overweeg een **ZZP-inschrijving in Nederland** als je terugkeert; dat maakt je aantrekkelijk voor detacheringsopdrachten.
+
+---
+
+✅ Conclusie:
+Ja, je maakt absoluut kans. Overheids-ICT heeft een groot tekort aan mensen met jouw kennis. De meeste kansen liggen via **detachering / ZZP / consultancy**. Leeftijd hoeft geen belemmering te zijn – juist jouw ervaring met **kritische systemen bij financiële instellingen in Zwitserland** is een troef.
+
+---
+
+Wil je dat ik voor jou een overzicht maak van **de top 10 leveranciers/detacheringsbureaus** die de meeste overheidsopdrachten voor Java/Spring/Kubernetes hebben?

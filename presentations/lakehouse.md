@@ -20,6 +20,8 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Marktunsicherheiten wie wirtschaftliche Instabilität, Unternernehmen reagieren möglicherweise vorsichtiger was zu einem Rückgang der Projektanzahl führt.
 - Um technologisch auf dem neuesten Stand zu bleiben, mach ich derzeit Online-Kurse auf neuste technologie ebene.
 - Parallel dazu entwickle ich Show Case projecten auf Github, um diese Technologien praktisieren und meine fahigkeiten zu demonstrieren.
+- Heutzutage ist es für Entwickler üblich, eigene Vorzeigeprojekte zu entwickeln, um neue Technologien zu üben und ihre Fähigkeiten zu demonstrieren.
+
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.
 Lakehouses are built on OS and open standards, simplifying and unifying all your data, business intelligence (BI), data warehousing (DW), machine learning (ML) and AI withing one architecture.

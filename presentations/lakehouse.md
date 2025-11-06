@@ -15,7 +15,7 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Wenn auf LinkedIn eine neue Stellenanzeige erscheint, gibt as innerhalb von 30 Minuten bereits 100 oder mehr Bewerbungen.
 - HansPeter und Alicia (Seminarleiter) haben mir explicit advisiert niet auf Festanstellungen zu bewerben. Ich sollte mich auf kurzfristige Positionen konzentrieren.
 - Keine Personalabteilung wird einen 64-jährigen Programmierer einstellen. ICT abteilungen brauchen ein langfristige arbeids commit.
-- IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die Prozesse des Unternehmens einzuarbeiten.
+- IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die unternehmens prozessen einzuarbeiten.
 - Markt Unsicherheiten weniger ict projecten.
 - Marktunsicherheiten wie wirtschaftliche Instabilität, Unternernehmen reagieren möglicherweise vorsichtiger was zu einem Rückgang der Projektanzahl führt.
 - Um technologisch auf dem neuesten Stand zu bleiben, mach ich derzeit Online-Kurse auf neuste technologie ebene.

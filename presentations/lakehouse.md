@@ -7,7 +7,7 @@
 - Anschließend habe ich verschiedene Softwareunternehmen, Projekte und Technologien durchlaufen.
 - Schliesslich landete ich 2007 bei der UBS in Zürich
 - Das war ein Einjahresvertrag, aber schließlich wurde ich für neue Projekte bei der Credit Suisse,
-der Bank Julius Bär und schließlich bei SwissRE eingeladen.
+der Bank Julius Bär und letzlich/schließlich bei SwissRE eingeladen.
 - SwissRe war mein letztes Projekt, das im Dezember 2024 endete. Seitdem suche ich nach einer neuen Herausforderung.
 - Die heute zu tage tendenz ist ein Rückgang der Anzahl IT-Projekte und ein erhöhte Zahl arbeitsloser IT-Spezialisten,
 das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
@@ -20,7 +20,7 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Marktunsicherheiten wie wirtschaftliche Instabilität, Unternernehmen reagieren möglicherweise vorsichtiger was zu einem Rückgang der Projektanzahl führt.
 - Um technologisch auf dem neuesten Stand zu bleiben, mach ich derzeit Online-Kurse auf neuste technologie ebene.
 - Parallel dazu entwickle ich Show Case projecten auf Github, um diese Technologien praktisieren und meine fahigkeiten zu demonstrieren.
-- Heutzutage ist es für Entwickler üblich, eigene Vorzeigeprojekte zu entwickeln, um neue Technologien zu üben und ihre Fähigkeiten zu demonstrieren.
+- Heutzutage ist es für Entwickler üblich, eigene Vorführungs projekte zu entwickeln, um neue Technologien zu üben/praktisieren und ihre Fähigkeiten zu demonstrieren.
 
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.

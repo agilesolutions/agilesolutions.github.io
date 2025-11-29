@@ -26,11 +26,13 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 
 ## card loss
 - Cornercard +41 91 800 41 41
-- [Corner card online support](https://support.cornercard.ch/hc/en-us)
+  - [Corner card online support](https://support.cornercard.ch/hc/en-us)
 - Revolut +44 20 332 28352
   - [Revolut online support](https://www.revolut.com/blog/post/how-to-contact-revolut-support/)
   - R - 5301
   - P - 6393
+- Sunrise lost report international hotline +41 58 777 01 01
+  - [Sunrise online support](https://www.sunrise.ch/en/support/my-sunrise)
 
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.

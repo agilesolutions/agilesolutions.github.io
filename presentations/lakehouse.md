@@ -2,6 +2,8 @@
 [<img src="../images/back.png">](../README.md)
 ## Introductie
 - Ich wurde 1984 von IBM zum COBOL-Mainframe-Softwareprogrammierer ausgebildet
+  - R - 2110
+  - P - 3004
 - Danach wurde ich als Praktikant bei ITT eingestellt
 - Ich wurde nach mijn prakikum fest angestellt.
 - Anschließend habe ich verschiedene Softwareunternehmen, Projekte und Technologien durchlaufen.
@@ -21,6 +23,14 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Um technologisch auf dem neuesten Stand zu bleiben, mach ich derzeit Online-Kurse auf neuste technologie ebene.
 - Parallel dazu entwickle ich Show Case projecten auf Github, um diese Technologien praktisieren und meine fahigkeiten zu demonstrieren.
 - Heutzutage ist es für Entwickler üblich, eigene Vorführungs projekte zu entwickeln, um neue Technologien zu üben/praktisieren und ihre Fähigkeiten zu demonstrieren.
+
+## card loss
+- Cornercard +41 91 800 41 41
+- [Corner card online support](https://support.cornercard.ch/hc/en-us)
+- Revolut +44 20 332 28352
+  - [Revolut online support](https://www.revolut.com/blog/post/how-to-contact-revolut-support/)
+  - R - 5301
+  - P - 6393
 
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.

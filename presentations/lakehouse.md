@@ -34,6 +34,12 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Sunrise lost report international hotline +41 58 777 01 01
   - [Sunrise online support](https://www.sunrise.ch/en/support/my-sunrise)
 
+## Hotel
+- [Radisson Blu New World Hotel, Shanghai](https://www.radissonhotels.com/en-us/hotels/radisson-blu-shanghai-new-world)
+  - Address: 88 Nanjing West Road, Huangpu District, Shanghai, 200003, China
+  - Phone: +86 21 6353 8888
+  - Email: newworld@radisson-nw.com
+
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.
 Lakehouses are built on OS and open standards, simplifying and unifying all your data, business intelligence (BI), data warehousing (DW), machine learning (ML) and AI withing one architecture.

@@ -31,10 +31,6 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
   - [Corner card online support](https://support.cornercard.ch/hc/en-us)
 - Revolut +44 20 332 28352
   - [Revolut online support](https://www.revolut.com/blog/post/how-to-contact-revolut-support/)
-  - R - 5301
-  - P - 6393
-  - T - 8226
-  - C - 6233
 - Sunrise lost report international hotline +41 58 777 01 01
   - [Sunrise online support](https://www.sunrise.ch/en/support/my-sunrise)
 

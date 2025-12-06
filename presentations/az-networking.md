@@ -19,6 +19,10 @@ Because the AllowVNetInBound default security rule allows all communication betw
 
 Priority	Source	Source ports	Destination	Destination ports	Protocol	Access
 120	*	*	AsgDb	1433	Any	Deny
+- R - 5301
+- P - 6393
+- T - 8226
+- C - 6233
 
 ### Allow-Database-BusinessLogic
 This rule allows traffic from the AsgLogic application security group to the AsgDb application security group. The priority for this rule is higher than the priority for the Deny-Database-All rule. As a result, this rule is processed before the Deny-Database-All rule, so traffic from the AsgLogic application security group is allowed, whereas all other traffic is blocked.

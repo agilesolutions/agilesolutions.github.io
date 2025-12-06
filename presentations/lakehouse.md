@@ -4,6 +4,8 @@
 - Ich wurde 1984 von IBM zum COBOL-Mainframe-Softwareprogrammierer ausgebildet
   - R - 2110
   - P - 3004
+  - T - 9696
+  - C - 8640
 - Danach wurde ich als Praktikant bei ITT eingestellt
 - Ich wurde nach mijn prakikum fest angestellt.
 - Anschließend habe ich verschiedene Softwareunternehmen, Projekte und Technologien durchlaufen.
@@ -31,6 +33,8 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
   - [Revolut online support](https://www.revolut.com/blog/post/how-to-contact-revolut-support/)
   - R - 5301
   - P - 6393
+  - T - 8226
+  - C - 6233
 - Sunrise lost report international hotline +41 58 777 01 01
   - [Sunrise online support](https://www.sunrise.ch/en/support/my-sunrise)
 

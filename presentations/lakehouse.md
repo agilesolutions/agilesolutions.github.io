@@ -1,11 +1,14 @@
 # Data Lakehouse Architecture
 [<img src="../images/back.png">](../README.md)
 ## Introductie
+- Ich gehe in 6 Monaten in Rente, Ich gehe in den Ruhestand
+- Ich suche nur nach kurzfristigen Verträgen
+- Wenn auf LinkedIn eine neue Stell veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr as 100 Bewerber
+- I habe 5 nueue Stellenangebote registriert
+- keine Rückmeldungen, bis jetzt keine Einladungen zu einem Vorstellungsgespräch
+- Mein Alter könnte ein entscheidender Grund dafür sein
+- Nicht zum Interview eingeladen
 - Ich wurde 1984 von IBM zum COBOL-Mainframe-Softwareprogrammierer ausgebildet
-  - R - 2110
-  - P - 3004
-  - T - 9696
-  - C - 8640
 - Danach wurde ich als Praktikant bei ITT eingestellt
 - Ich wurde nach mijn prakikum fest angestellt.
 - Anschließend habe ich verschiedene Softwareunternehmen, Projekte und Technologien durchlaufen.
@@ -34,12 +37,6 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Sunrise lost report international hotline +41 58 777 01 01
   - [Sunrise online support](https://www.sunrise.ch/en/support/my-sunrise)
 
-## Hotel
-- [Radisson Blu New World Hotel, Shanghai](https://www.radissonhotels.com/en-us/hotels/radisson-blu-shanghai-new-world)
-  - Address: 88 Nanjing West Road, Huangpu District, Shanghai, 200003, China
-  - Phone: +86 21 6353 8888
-  - Email: newworld@radisson-nw.com
-
 ## Introduction
 Data Lakehouse Architecture enables companies to deliver faster on their data and AI initiatives.
 Lakehouses are built on OS and open standards, simplifying and unifying all your data, business intelligence (BI), data warehousing (DW), machine learning (ML) and AI withing one architecture.
@@ -53,6 +50,10 @@ The need for performing analytics on all types of data across multiple data sour
 DM has evolved over time, traditional solutions fall short, this is where data lakehouse architecture as emerged as a modern standard for DM and data warehousing.
 
 
+- R - 2110
+- P - 3004
+- T - 9696
+- C - 8640
 
 
 [<img src="../images/back.png">](../README.md)

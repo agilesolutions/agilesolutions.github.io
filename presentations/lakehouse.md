@@ -3,7 +3,7 @@
 ## Introductie
 - Ich gehe in 6 Monaten in Rente, Ich gehe in den Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
-- Wenn auf LinkedIn eine neue Stell veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr as 100 Bewerber
+- Wenn auf LinkedIn eine neue Stelle veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr as 100 Bewerber
 - I habe 5 nueue Stellenangebote registriert
 - keine Rückmeldungen, bis jetzt keine Einladungen zu einem Vorstellungsgespräch
 - Mein Alter könnte ein entscheidender Grund dafür sein

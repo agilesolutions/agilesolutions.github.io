@@ -3,11 +3,15 @@
 ## Introductie
 - Ich gehe in 6 Monaten in Rente, Ich gehe in den Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
-- Wenn auf LinkedIn eine neue Stelle veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr als 100 Bewerber
+- Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.
+- erstens: Keine IT-Abteilung wird einen 64-jährigen Programmierer einstellen. IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die unternehmens prozessen einzuarbeiten.
+- zweitens : Je länger ich ohne Projekt bin, desto schwieriger wird es, eine neue Anstellung zu bekommen.
+- drittens : Wenn auf LinkedIn eine neue Stelle veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr als 100 Bewerber
 - I habe 5 nueue Stellenangebote registriert
 - keine Rückmeldungen, bis jetzt keine Einladungen zu einem Vorstellungsgespräch
 - Mein Alter könnte ein entscheidender Grund dafür sein
 - Nicht zum Interview eingeladen
+- derzeit bin ich mit neuen Technologien beschäftigt, mache ich online kurse und meine private projecten
 - Ich wurde 1984 von IBM zum COBOL-Mainframe-Softwareprogrammierer ausgebildet
 - Danach wurde ich als Praktikant bei ITT eingestellt
 - Ich wurde nach mijn prakikum fest angestellt.

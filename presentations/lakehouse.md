@@ -1,6 +1,20 @@
 # Data Lakehouse Architecture
 [<img src="../images/back.png">](../README.md)
 ## Introductie
+- Ich stehe kurz vor der Rente, in 6 Monaten gehe ich im Ruhestand
+- Ich suche nur nach kurzfristigen Verträgen
+- Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.
+- Mein Alter könnte ein entscheidender Grund dafür sein
+- derzeit bin ich mit neuen Technologien beschäftigt, mache ich online kurse und meine private projecten
+- I habe XXX nueue Stellenangebote registriert, keine Rückmeldungen, bis jetzt keine Einladungen zu einem Vorstellungsgespräch
+- erstens: Keine IT-Abteilung wird einen 64-jährigen Programmierer einstellen. IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die unternehmens prozessen einzuarbeiten.
+- zweitens : Je länger ich ohne Projekt bin, desto schwieriger wird es, eine neue Anstellung zu bekommen.
+- drittens : Wenn auf LinkedIn eine neue Stelle veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr als 100 Bewerber
+- Um technologisch auf dem neuesten Stand zu bleiben, mach ich derzeit Online-Kurse auf neuste technologie ebene.
+- Parallel dazu entwickle ich Show Case projecten auf Github, um diese Technologien praktisieren und meine fahigkeiten zu demonstrieren.
+- Heutzutage ist es für Entwickler üblich, eigene Vorführungs projekte zu entwickeln, um neue Technologien zu üben/praktisieren und ihre Fähigkeiten zu demonstrieren.
+
+
 - Ich gehe in 6 Monaten in Rente, Ich gehe in den Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
 - Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.

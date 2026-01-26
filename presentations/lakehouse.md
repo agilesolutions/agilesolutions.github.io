@@ -49,6 +49,11 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Parallel dazu entwickle ich Show Case projecten auf Github, um diese Technologien praktisieren und meine fahigkeiten zu demonstrieren.
 - Heutzutage ist es für Entwickler üblich, eigene Vorführungs projekte zu entwickeln, um neue Technologien zu üben/praktisieren und ihre Fähigkeiten zu demonstrieren.
 
+## offene Fragen
+- Muss ich immer noch nach nueue Stellenangebote suchen und online registrieren?
+- Muss ich immer noch monatliche Angabe versicherten Personen formular abschicken? 
+- Muss ich immer noch meine urlaubstage anmelden?
+
 ## card loss
 - Cornercard +41 91 800 41 41
   - [Corner card online support](https://support.cornercard.ch/hc/en-us)

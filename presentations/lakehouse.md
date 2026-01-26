@@ -1,6 +1,8 @@
 # Data Lakehouse Architecture
 [<img src="../images/back.png">](../README.md)
 ## Introductie
+- Auf der suche nach einer neuen Stelle, berufliche Herausforderung, habe ich mich auf XXX neue Stellenangebote beworben.
+- Bis jetzt habe ich keine Rückmeldungen erhalten, keine Einladungen zu einem Vorstellungsgespräch.
 - Ich stehe kurz vor der Rente, in 6 Monaten gehe ich im Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
 - Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.

@@ -53,6 +53,7 @@ das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Muss ich immer noch nach nueue Stellenangebote suchen und online registrieren?
 - Muss ich immer noch monatliche Angabe versicherten Personen formular abschicken? 
 - Muss ich immer noch meine urlaubstage anmelden?
+- Frau Trolese hat mir mitgeteilt, dass ich ab dem ersten März keine neue Stelle mehr suchen muss. Habe ich das richtig verstanden?
 
 ## card loss
 - Cornercard +41 91 800 41 41

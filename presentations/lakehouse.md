@@ -2,13 +2,13 @@
 [<img src="../images/back.png">](../README.md)
 ## Introductie
 - Auf der suche nach einer neuen Stelle, berufliche Herausforderung, habe ich mich auf XXX neue Stellenangebote beworben.
-- Bis jetzt ohne erfolg, keine Rückmeldungen erhalten, keine Einladungen für Vorstellungsgesprächen.
+- Bis jetzt ohne erfolg, keine Rückmeldungen erhalten, keine Einladungen zu Vorstellungsgesprächen.
 - Ich stehe kurz vor der Rente, in 6 Monaten gehe ich im Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
 - Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.
 - Mein Alter könnte ein entscheidender Grund dafür sein
 - derzeit bin ich mit neuen Technologien beschäftigt, mache ich online kurse und meine private projecten
-- I habe XXX nueue Stellenangebote registriert, keine Rückmeldungen, bis jetzt keine Einladungen für Vorstellungsgespräch
+- I habe XXX nueue Stellenangebote registriert, keine Rückmeldungen, bis jetzt keine Einladungen zu Vorstellungsgespräch
 - erstens: Keine IT-Abteilung wird einen 64-jährigen Programmierer einstellen. IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die unternehmens prozessen einzuarbeiten.
 - zweitens : Je länger ich ohne Projekt bin, desto schwieriger wird es, eine neue Anstellung zu bekommen.
 - drittens : Wenn auf LinkedIn eine neue Stelle veröffentlicht wird, gibt es bereits innerhalb einer Stunde mehr als 100 Bewerber
@@ -40,7 +40,7 @@ der Bank Julius Bär und letzlich/schließlich bei SwissRE eingeladen.
 das macht de wetbewerb richtig schwierig, vor allem in meinem Alter
 - Marktunsicherheiten wie wirtschaftliche Instabilität, Unternernehmen reagieren möglicherweise vorsichtiger was zu einem Rückgang der Projektanzahl führt.
 - Wenn auf LinkedIn eine neue Stellenanzeige erscheint, gibt as innerhalb von 30 Minuten bereits 100 oder mehr Bewerbungen.
-- HansPeter und Alicia (Seminarleiter) haben mir explicit advisiert niet auf Festanstellungen zu bewerben. Ich sollte mich auf kurzfristige Positionen konzentrieren.
+- HansPeter und Alicia (Seminarleiter) haben mir explicit advisiert nicht auf Festanstellungen zu bewerben. Ich sollte mich auf kurzfristige Positionen konzentrieren.
 - Keine Personalabteilung wird einen 64-jährigen Programmierer einstellen. ICT abteilungen brauchen ein langfristige arbeids commit.
 - IT-Abteilungen benötigen langfristig engagierte Fachkräfte. Neue Mitarbeiter benötigen mindestens ein Jahr, um sich in die unternehmens prozessen einzuarbeiten.
 - Markt Unsicherheiten weniger ict projecten.

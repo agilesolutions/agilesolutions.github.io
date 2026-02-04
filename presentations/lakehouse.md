@@ -2,7 +2,7 @@
 [<img src="../images/back.png">](../README.md)
 ## Introductie
 - Auf der suche nach einer neuen Stelle, berufliche Herausforderung, habe ich mich auf XXX neue Stellenangebote beworben.
-- Bis jetzt ohne erfolg, keine Rückmeldungen erhalten, keine Einladungen zu Vorstellungsgesprächen.
+- Bisher ohne erfolg, keine Rückmeldungen erhalten, keine Einladungen zu Vorstellungsgesprächen.
 - Ich stehe kurz vor der Rente, in 6 Monaten gehe ich im Ruhestand
 - Ich suche nur nach kurzfristigen Verträgen
 - Es gibt mehrere Gründe, warum ich keine rückmeldung und einladungen bekomme.

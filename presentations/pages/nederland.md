@@ -476,5 +476,231 @@ Volledige AOW: ongeveer €1.350 per maand voor een alleenstaande
    - 0	100%	€1.350
    - 18	64%	€864
 
-💡 Tip: Deze berekening is exclusief extra pensioen zoals bedrijfspensioen of AHV.
-Je totale inkomen uit pensioen wordt dus AOW + AHV + 2e pijler.
+### Belastingvrije zone door heffingskortingen
+
+Je AOW wordt belast, maar je hebt recht op heffingskortingen die het bedrag dat je daadwerkelijk betaalt kunnen verlagen. Voor een alleenstaande AOW-gerechtigde is er bijvoorbeeld de algemene heffingskorting en de ouderenkorting. Hierdoor kan het zijn dat je effectief weinig tot geen belasting betaalt over je AOW, afhankelijk van je totale inkomen.
+
+De belangrijkste kortingen zijn:
+- Algemene heffingskorting
+- Arbeidskorting (alleen bij inkomen uit werk)
+
+Door deze kortingen ontstaat een feitelijke belastingvrije inkomenszone.
+
+### Indicatie 2025
+Voor iemand die werkt ligt het punt waar je ongeveer geen inkomstenbelasting betaalt rond:
+
+€10.000 – €12.000 bruto per jaar
+
+Dit is ongeveer:
+- €830 – €1.000 per maand
+
+Daarboven begin je langzaam belasting te betalen.
+
+### Bij AOW of pensioen
+Voor gepensioneerden (bijvoorbeeld AOW + pensioen) ligt het belastingvrije bedrag iets anders.
+
+Indicatie:
+
+ongeveer €15.000 – €17.000 bruto per jaar
+
+Dat komt doordat:
+- lagere belastingtarieven gelden
+- andere heffingskortingen bestaan
+
+AOW wordt geregeld via de Sociale Verzekeringsbank.
+
+### Het “bestaansminimum” (sociaal minimum)
+Het bestaansminimum wordt bepaald door de bijstandsnorm volgens de Participatiewet.
+
+Indicatie 2025:
+
+Situatie Netto per maand: 
+- Alleenstaande	± €1.250
+- Gehuwd / samenwonend	± €1.800
+
+Over dit niveau betaal je meestal nauwelijks belasting omdat toeslagen en kortingen het compenseren.
+
+### Belangrijke nuance
+Het Nederlandse systeem werkt dus zo:
+
+belasting wordt wel berekend maar heffingskortingen verminderen de belasting tot bijna nul
+Formeel bestaat er dus geen exact belastingvrij bedrag, maar praktisch wel een effectieve belastingvrije zone.
+
+✅ Praktisch voorbeeld
+
+**Jaarinkomen	Belasting ongeveer**
+€10.000	€0
+€15.000	zeer weinig
+€25.000	± €2.000
+
+### Praktisch voorbeeld
+Stel je bent 67 jaar en hebt 18 jaar in Zwitserland gewerkt. Je krijgt dan ongeveer:
+- AOW: €864 per maand
+- AHV: CHF 600 – CHF 900 per maand (ongeveer €600 – €900)
+- Totaal: €1.464 – €1.764 per maand
+- Dit is een ruwe schatting, maar het geeft je een idee van wat je kunt verwachten als je 18 jaar in Zwitserland hebt gewerkt en daarna in Nederland woont. Je totale pensioen zal dus aanzienlijk lager zijn dan wanneer je 50 jaar in Nederland had gewoond, maar je hebt nog steeds een mooi pensioen opgebouwd dankzij je tijd in Zwitserland.
+- ✅ Tip: Vraag een gratis overzicht van je AOW-opbouw bij de Sociale Verzekeringsbank en je AHV-opbouw bij de Zentrale Ausgleichsstelle (ZAS). Dan weet je precies hoeveel pensioen je later kunt verwachten.
+- 💡 Als je wilt, kan ik ook iets heel nuttigs voor je berekenen:
+- wat je totale pensioen ongeveer wordt: AOW + AHV + Zwitserse 2e pijler. Dat kan ik vrij nauwkeurig inschatten als ik je leeftijd en je salaris in Zwitserland ongeveer weet. Zo krijg je een compleet beeld van je financiële situatie na je verhuizing naar Nederland.
+- hoeveel AOW je verliest door 18 jaar in Zwitserland (veel Nederlanders schrikken daarvan, maar het is belangrijk om te weten dat je nog steeds een aanzienlijk pensioen hebt dankzij je tijd in Zwitserland).
+- hoeveel je ongeveer krijgt als je ook nog een Zwitsers werkgeverspensioen hebt (dat is vaak het grootste deel van je pensioen).
+- hoe je AOW + AHV samen worden berekend (dat is interessant als je in beide landen gewerkt hebt, want dan krijg je twee staatspensioenen naast elkaar).
+- hoe je een Zwitserse BVG/LPP pensioen soms belastingvrij kunt opnemen bij vertrek (dat kan duizenden euro’s schelen als je dat goed regelt).
+
+## Eind Calculatie
+
+Laten we een realistisch voorbeeld nemen voor iemand die later in Nederland woont en pensioen ontvangt uit:
+- Nederlandse AOW
+- Zwitserse AHV
+
+AOW wordt uitgekeerd door de Sociale Verzekeringsbank en belasting loopt via de Belastingdienst.
+
+Voorbeeld pensioen: €2.000 per maand
+
+Stel je totale bruto pensioen is:
+
+AOW: €900
+
+AHV (Zwitserland): €700
+
+eventueel klein pensioen: €400
+
+Totaal:
+
+€2.000 per maand = €24.000 per jaar
+
+1. Belastingtarief AOW-gerechtigden
+
+Voor mensen boven de AOW-leeftijd geldt een lager belastingtarief in box 1.
+
+Indicatie eerste schijf:
+
+ongeveer 19% belasting
+
+2. Heffingskortingen
+
+Je krijgt meestal:
+
+algemene heffingskorting
+
+ouderenkorting
+
+Samen vaak ongeveer:
+
+€2.500 – €3.500 korting per jaar
+
+3. Ruwe berekening
+
+Bruto per jaar:
+€24.000
+
+Belasting (±19%):
+
+€4.560
+
+Min heffingskortingen (bv. €3.000):
+
+€1.560 belasting per jaar
+
+Netto inkomen
+
+Per jaar netto:
+
+€24.000 − €1.560 = €22.440
+
+Per maand:
+
+≈ €1.870 netto
+
+Resultaat
+Bruto pensioen	Netto per maand
+€1.500	± €1.450
+€2.000	± €1.870
+€2.500	± €2.200
+
+Door de kortingen blijft het verschil tussen bruto en netto relatief klein.
+
+💡 Belangrijk detail voor Zwitsers pensioen
+
+Volgens het belastingverdrag tussen
+Nederland en
+Zwitserland
+
+wordt AHV meestal alleen in Nederland belast als je daar woont.
+
+✅ Interessant voor jouw situatie
+
+Je noemde eerder: 18 jaar gewerkt in Zwitserland
+
+Dan ligt een realistische pensioencombinatie vaak rond:
+
+**Bron	Indicatie**
+- Nederlandse AOW (64%)	€800 – €900
+- Zwitserse AHV	€600 – €900
+- Zwitserse 2e pijler	€500 – €1.500
+
+Totaal bruto pensioen kan dus vaak rond:
+
+👉 €2.000 – €3.000 per maand liggen
+
+Er zijn situaties waarin iemand met AOW + Zwitsers pensioen (AHV) in Nederland zeer weinig of bijna geen belasting betaalt. Dat komt door een combinatie van belastingregels, kortingen en het belastingverdrag tussen
+Nederland en Zwitserland.
+
+In Nederland betaal je belasting over je inkomen, maar er zijn verschillende heffingskortingen die het bedrag dat je daadwerkelijk betaalt kunnen verlagen. Voor gepensioneerden, zoals AOW-gerechtigden, zijn er specifieke kortingen die ervoor zorgen dat veel van hun inkomen effectief belastingvrij is.
+
+### Belastingverdrag Nederland-Zwitserland
+Volgens het belastingverdrag tussen Nederland en Zwitserland wordt het Zwitserse AHV-pensioen meestal alleen in Nederland belast als je daar woont. Dit betekent dat als je in Nederland woont, je AOW en AHV beide in Nederland worden belast, maar door de heffingskortingen kan het zijn dat je weinig tot geen belasting betaalt over deze inkomsten.
+### Heffingskortingen voor gepensioneerden
+- Algemene heffingskorting: een korting op de belasting die iedereen krijgt, maar die afneemt naarmate je meer verdient.
+- Ouderenkorting: een extra korting voor mensen boven een bepaalde leeftijd (meestal 65 jaar), die ervoor zorgt dat gepensioneerden minder belasting betalen.
+### Praktisch voorbeeld
+Stel je hebt een bruto pensioen van €2.000 per maand (€24.000 per jaar) uit AOW en AHV. Zonder kortingen zou je ongeveer 19% belasting betalen, wat neerkomt op €4.560 per jaar. Maar als je recht hebt op heffingskortingen van bijvoorbeeld €3.000 per jaar, betaal je effectief slechts €1.560 aan belasting, waardoor je netto ongeveer €22.440 per jaar overhoudt, ofwel ongeveer €1.870 per maand.
+### Conclusie
+Door de combinatie van het belastingverdrag en de heffingskortingen kan het voorkomen datje met een bruto pensioen van €2.000 per maand uiteindelijk bijna geen belasting betaalt, vooral als je totale inkomen binnen de grenzen van de heffingskortingen blijft. Dit is een belangrijk voordeel van het Nederlandse belastingstelsel voor gepensioneerden, vooral voor degenen die ook een buitenlands pensioen ontvangen.
+
+## Waarom belasting vaak laag is bij pensioen
+Voor mensen boven de AOW-leeftijd:
+- lagere belasting in box 1
+- algemene heffingskorting
+- ouderenkorting
+
+Deze kortingen kunnen samen €3.000–€4.000 per jaar zijn.
+
+## Voorbeeld: relatief laag pensioen
+Stel iemand ontvangt:
+Bron	Bedrag per maand
+- AOW	€900
+- AHV (Zwitserland)	€700
+- klein pensioen	€200
+
+Totaal bruto: €1.800 per maand = €21.600 per jaar
+
+- Belasting (eerste belasting schijf ±19%): €4.104
+- Heffingskortingen (bv. €3.000): €1.104 belasting per jaar
+- Netto per jaar: €21.600 − €1.104 = €20.496
+- Netto per maand: ≈ €1.708
+
+Door de kortingen blijft het verschil tussen bruto en netto relatief klein, waardoor iemand met een bruto pensioen van €1.800 per maand uiteindelijk ongeveer €1.700 netto overhoudt.
+
+### Belangrijk punt bij Zwitsers pensioen
+
+De AHV van Zwitserland wordt meestal:
+- alleen in Nederland belast
+- niet nog eens in Zwitserland
+
+Dit is geregeld in het belastingverdrag.
+
+### Wat veel mensen niet weten
+
+Er is nog een factor die veel verschil maakt:
+
+- toeslagen
+
+Bij lage pensioenen kun je soms krijgen:
+
+- zorgtoeslag
+
+- huurtoeslag
+
+Daardoor kan het netto inkomen hoger worden dan verwacht.
+ 

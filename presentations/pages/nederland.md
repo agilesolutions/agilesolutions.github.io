@@ -127,7 +127,7 @@ Maar soms kun je vrijwillig doorverzekeren (achteraf meestal niet meer mogelijk)
 
 👉 Je kunt bij de SVB een AOW-overzicht aanvragen.
 
-###Pensioen (werkgeverspensioen)
+### Pensioen (werkgeverspensioen)
 
 Als je in Nederland hebt gewerkt, staat je pensioen meestal bij een pensioenfonds.
 

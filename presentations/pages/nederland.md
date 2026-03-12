@@ -569,54 +569,39 @@ Totaal:
 
 €2.000 per maand = €24.000 per jaar
 
-1. Belastingtarief AOW-gerechtigden
+### Belastingtarief AOW-gerechtigden
 
 Voor mensen boven de AOW-leeftijd geldt een lager belastingtarief in box 1.
 
 Indicatie eerste schijf:
+- ongeveer 19% belasting
 
-ongeveer 19% belasting
-
-2. Heffingskortingen
+### Heffingskortingen
 
 Je krijgt meestal:
-
-algemene heffingskorting
-
-ouderenkorting
+- algemene heffingskorting
+- ouderenkorting
 
 Samen vaak ongeveer:
 
 €2.500 – €3.500 korting per jaar
 
-3. Ruwe berekening
+### Ruwe berekening
 
-Bruto per jaar:
-€24.000
-
-Belasting (±19%):
-
-€4.560
-
-Min heffingskortingen (bv. €3.000):
-
-€1.560 belasting per jaar
+- Bruto per jaar: €24.000
+- Belasting (±19%): €4.560
+- Min heffingskortingen (bv. €3.000): €1.560 belasting per jaar
 
 Netto inkomen
 
-Per jaar netto:
-
-€24.000 − €1.560 = €22.440
-
-Per maand:
-
-≈ €1.870 netto
+- Per jaar netto: €24.000 − €1.560 = €22.440
+- Per maand: €1.870 netto
 
 Resultaat
 Bruto pensioen	Netto per maand
-€1.500	± €1.450
-€2.000	± €1.870
-€2.500	± €2.200
+- €1.500	± €1.450
+- €2.000	± €1.870
+- €2.500	± €2.200
 
 Door de kortingen blijft het verschil tussen bruto en netto relatief klein.
 

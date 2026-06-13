@@ -3,10 +3,32 @@ With 40 years experience in Software Engineering and System Integration across d
 Specialized in optimizing software development processes to enhance productivity and quality across all facets of development.
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
-## ShowCasing Agentic AI with Spring AI, running on Azure AKS and AI Foundry
-Momently, my main focus is on experimenting with AI Agentic capabilities by enabling existing businesses running with SpringBoot on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/ai-trader/).  
+## ShowCasing Agentic AI with Spring AI Embabel running on Azure AKS and AI Foundry
+Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot, running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
+
+### Why Embabel?
+Embabel is an Agentic AI framework for the JVM. Python has long been the go-to for machine learning experiments, thanks to its ease, ecosystem richness, and data scientist-friendly tools.
+However, it often struggles when you try to move from experiment to real-world, production-scale AI.
+
+As AI adoption becomes more mission critical, what matters is not just model training or computation.
+It is context, reliability, type safety, performance, observability, and integration with existing enterprise systems.
+Java and Kotlin offer these strengths. Strong typing, mature tooling, and proven track records in resilient, scalable systems make them a compelling choice for serious AI. It is time to move beyond proofs of concept.
+
+**The Team Behind Embabel:**
+
+Alongside Spring Framework founder Rod Johnson and other alumni, Embabel is built by a team of high-achieving engineers with a proven record not only in applied AI, but also in designing, scaling, and delivering large, complex systems.
+
+### Embabel Core Philosophy and features
+Embabel distinguishes itself from Python-based frameworks by emphasizing deterministic orchestration and deep integration with existing enterprise systems.
+
+- **GOAP Planning:** Uses Goal-Oriented Action Planning (GOAP)—a pathfinding algorithm common in gaming—to dynamically determine the best sequence of actions to reach a goal.
+- **OODA Loop:** Agents operate in a continuous loop of Observe, Orient, Decide, and Act, reassessing their plan after every step.
+- **Type Safety:** Heavily leverages Kotlin and Java's strong typing to ensure that LLM inputs and outputs are grounded in typed domain objects rather than raw text.
+- **Spring Integration:** Built on top of Spring AI, it allows developers to use familiar dependency injection and configuration patterns.§
+- **Model Context Protocol (MCP):** Supports the Model Context Protocol for standardizing how agents interact with external tools and data sources.
+
 ## Full End-to-End, from Development, CI/CD, Deployment to Provisioning
-This project is a full end-to-end demonstration of how to develop an AI application with Spring AI, and then use Azure DevOps pipelines to CI/CD deliver that logic on Azure ACR container registry and finally use Terraform to provision Azure AKS cluster, Azure Flexible server and Azure AI Foundry to provision everything needed to run this process.
+This project is a full end-to-end demonstration of how to develop an AI application with Spring AI Embabel, and then use Azure DevOps pipelines to CI/CD deliver that logic on Azure ACR container registry and finally use Terraform to provision Azure AKS cluster, Azure Flexible server and Azure AI Foundry to provision everything needed to run this process.
 - **SpringBoot** application Build process managed with **Gradle**.
 - **Azure DevOps pipelines** to build, run Spring AI JUnit Relevancy Factuality AI tests, HELM package and deploy application on Azure AKS cluster.
 - **HELM** charts to package and deploy Spring AI application

@@ -1,10 +1,11 @@
-# About my experience so far
+# About my background and expertise in Software Engineering and System Integration
 With 40 years experience in Software Engineering and System Integration across diverse industries—including Logistics, Telephony, Banking, Insurance. I have built a career as a results-driven consultant. My expertise spans roles with organizations such as ITT, DEC, Philips, Shell, Samsung, KPN Royal Dutch Telecom, Friesland Bank, UBS, Credit Suisse, Bank Julius Baer, and Swiss RE.
 Specialized in optimizing software development processes to enhance productivity and quality across all facets of development.
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
+Accelerating productivity and code quality by integrating AI-powered tools like GitHub Copilot, [GitHub Spec Kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit) Spec-Driven development into the software development lifecycle. This includes code generation, code review, testing, and documentation.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
 ## ShowCasing Agentic AI with Spring AI Embabel running on Azure AKS and AI Foundry
-Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot, running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
+Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot utilizing the new [Embabel Agent Framework](https://github.com/embabel/embabel-agent), running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
 
 ### Why Embabel?
 Embabel is an Agentic AI framework for the JVM. Python has long been the go-to for machine learning experiments, thanks to its ease, ecosystem richness, and data scientist-friendly tools.

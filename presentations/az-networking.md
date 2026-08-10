@@ -20,8 +20,7 @@ Because the AllowVNetInBound default security rule allows all communication betw
 Priority	Source	Source ports	Destination	Destination ports	Protocol	Access
 120	*	*	AsgDb	1433	Any	Deny
 - R - 5301
-- P - 6393
-- T - 8226
+- C - 3879
 - C - 6233
 
 ### Allow-Database-BusinessLogic

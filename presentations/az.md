@@ -23,7 +23,9 @@ kubectl config get-contexts, kubectl reads your kubeconfig file, which typically
 - kubectl config set-context
 - kubectl use-context
 - kubectl current-context
-
+- R - 2110
+- C - 4034
+- C - 8640
 ## Configure KUBECTL
 ```
 # Configure kubectl

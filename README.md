@@ -4,6 +4,30 @@ Specialized in optimizing software development processes to enhance productivity
 With focus on Spring and JEE development, build and release management, testing, issue tracking, continuous integration and delivery (CI/CD), and improving code quality.
 Accelerating productivity and code quality by integrating AI-powered tools like GitHub Copilot, [GitHub Spec Kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit) Spec-Driven development into the software development lifecycle. This includes code generation, code review, testing, and documentation.
 See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/robert-rong-agile-solutions/)
+
+## Study and Research
+Independent software engineering and technology research conducted through hands-on development of open-source projects, proof-of-concepts and reference architectures. I use independent R&D projects to investigate modern software engineering and cloud-native technologies, with a strong focus on Java/Spring, distributed systems, Kubernetes, GitOps, Infrastructure as Code and secure microservice architectures.
+The work includes designing, implementing, deploying, testing and documenting complete technical solutions. Research results are maintained as public GitHub repositories and technical documentation.
+
+**Research and Engineering Areas**
+- Migrating legacy COBOL to SpringBoot MicroServices with Anthropic Claude AI
+- Implementing Agentic AI on Enterprise Solutions with [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) and [Embabel](https://hub.embabel.com/reference/spring)
+- Cloud engineering CNCF compliant solutions on [STACKIT](https://stackit.com/en) Sovereign Cloud
+- FluxCD and GitOps
+- AI SDD [Spec Driven Development](https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering/) application engineering with [Github Spec-Kit](https://github.github.com/spec-kit/concepts/sdd.html)
+
+**My Github Repositories**
+
+A collection of the resulting reference implementations, proof-of-concepts and technical research projects is available on GitHub:
+👉 GitHub — Independent Software Engineering R&D Projects
+1. Enabling Agentic AI on enterprise solutions with Spring AI and Embabel: https://github.com/agilesolutions/spring-ai-embabel
+2. AI SDD Spec Driven development with Github Spec Kit: https://github.com/agilesolutions/haven-poc-sdd
+3. Anthropic Claude AI migrating Cobol to Java SpringBoot microservices: https://github.com/agilesolutions/cobol-to-spring-boot-microservices
+4. STACKIT Sovereign cloud engineering: https://github.com/agilesolutions/stackit-spring-ms-k8s
+
+𝘛𝘩𝘦𝘴𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘥𝘦𝘮𝘰𝘯𝘴𝘵𝘳𝘢𝘵𝘦 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘦𝘥 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢𝘭 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘪𝘯𝘵𝘰 𝘮𝘰𝘥𝘦𝘳𝘯 𝘤𝘭𝘰𝘶𝘥-𝘯𝘢𝘵𝘪𝘷𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
+
+
 ## ShowCasing Agentic AI with Spring AI Embabel running on Azure AKS and AI Foundry
 Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot utilizing the new [Embabel Agent Framework](https://github.com/embabel/embabel-agent), running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
 

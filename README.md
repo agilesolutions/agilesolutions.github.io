@@ -10,10 +10,10 @@ Independent software engineering and technology research conducted through hands
 The work includes designing, implementing, deploying, testing and documenting complete technical solutions. Research results are maintained as public GitHub repositories and technical documentation.
 
 **Research and Engineering Areas**
-- Migrating legacy COBOL to SpringBoot MicroServices with Anthropic Claude AI
+- Migrating legacy COBOL to SpringBoot MicroServices with [Anthropic Claude AI](https://itdaily.com/blogs/software/anthropic-claude-cobol-ibm/)
 - Implementing Agentic AI on Enterprise Solutions with [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) and [Embabel](https://hub.embabel.com/reference/spring)
 - Cloud engineering CNCF compliant solutions on [STACKIT](https://stackit.com/en) Sovereign Cloud
-- FluxCD and GitOps
+- [FluxCD and GitOps](https://fluxcd.io/blog/2025/05/ai-assisted-gitops/)
 - AI SDD [Spec Driven Development](https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering/) application engineering with [Github Spec-Kit](https://github.github.com/spec-kit/concepts/sdd.html)
 
 **My Github Repositories**

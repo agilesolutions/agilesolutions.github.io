@@ -20,10 +20,10 @@ The work includes designing, implementing, deploying, testing and documenting co
 
 A collection of the resulting reference implementations, proof-of-concepts and technical research projects is available on GitHub:
 👉 GitHub — Independent Software Engineering R&D Projects
-1. Enabling Agentic AI on enterprise solutions with Spring AI and Embabel: https://github.com/agilesolutions/spring-ai-embabel
-2. AI SDD Spec Driven development with Github Spec Kit: https://github.com/agilesolutions/haven-poc-sdd
-3. Anthropic Claude AI migrating Cobol to Java SpringBoot microservices: https://github.com/agilesolutions/cobol-to-spring-boot-microservices
-4. STACKIT Sovereign cloud engineering: https://github.com/agilesolutions/stackit-spring-ms-k8s
+1. Enabling Agentic AI on enterprise solutions with Spring AI and Embabel: [https://github.com/agilesolutions/spring-ai-embabel](https://github.com/agilesolutions/spring-ai-embabel)
+2. AI SDD Spec Driven development with Github Spec Kit: [https://github.com/agilesolutions/haven-poc-sdd](https://github.com/agilesolutions/haven-poc-sdd)
+3. Anthropic Claude AI migrating Cobol to Java SpringBoot microservices: [https://github.com/agilesolutions/cobol-to-spring-boot-microservices](https://github.com/agilesolutions/cobol-to-spring-boot-microservices)
+4. STACKIT Sovereign cloud engineering: [https://github.com/agilesolutions/stackit-spring-ms-k8s](https://github.com/agilesolutions/stackit-spring-ms-k8s)
 
 𝘛𝘩𝘦𝘴𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘥𝘦𝘮𝘰𝘯𝘴𝘵𝘳𝘢𝘵𝘦 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘦𝘥 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢𝘭 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘪𝘯𝘵𝘰 𝘮𝘰𝘥𝘦𝘳𝘯 𝘤𝘭𝘰𝘶𝘥-𝘯𝘢𝘵𝘪𝘷𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
 

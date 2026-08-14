@@ -11,6 +11,8 @@ The work includes designing, implementing, deploying, testing and documenting co
 
 **NOTE: At the moment I am focusing integrating Agentic AI on JVM (Spring) based Enterprise and Business Solutions and taking a deep dive into the Embabel Agent Framework. I firmly believe that Agentic [Rod Johnsons Embabel](https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014) is the future of AI-powered software development, and I am excited to explore its potential in enterprise solutions.**
 
+*[Read about Blackboard pattern](pages/embabel-fundamentals.md) which functions as the architectural backbone for orchestrating complex, multi-staged Embabel Agentic pipelines*
+
 **Under here you see a list of things I have been working on and researching in the last years**
 - Migrating legacy COBOL to SpringBoot MicroServices with [Anthropic Claude AI](https://itdaily.com/blogs/software/anthropic-claude-cobol-ibm/)
 - Implementing Agentic AI on Enterprise Solutions with [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) and [Embabel](https://hub.embabel.com/reference/spring)

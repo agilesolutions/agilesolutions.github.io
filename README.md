@@ -29,7 +29,7 @@ A collection of the resulting reference implementations, proof-of-concepts and t
 
 
 ## ShowCasing Agentic AI with Spring AI Embabel running on Azure AKS and AI Foundry
-Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot utilizing the new [Embabel Agent Framework](https://github.com/embabel/embabel-agent), running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
+Currently, my  main focus is on implementing AI Agentic behavior on existing businesses implemented with Spring Framework and Boot utilizing the new [Embabel Agent Framework](https://www.danvega.dev/blog/embabel-first-look), running on Azure Kubernetes and connecting to Azure AI Foundry. Everything related to AI development that I have studied so far is worked into [one Github showcase project](https://github.com/agilesolutions/spring-ai-embabel).  
 
 ### Why Embabel?
 Embabel is an Agentic AI framework for the JVM. Python has long been the go-to for machine learning experiments, thanks to its ease, ecosystem richness, and data scientist-friendly tools.
@@ -41,7 +41,7 @@ Java and Kotlin offer these strengths. Strong typing, mature tooling, and proven
 
 **The Team Behind Embabel:**
 
-Alongside Spring Framework founder Rod Johnson and other alumni, Embabel is built by a team of high-achieving engineers with a proven record not only in applied AI, but also in designing, scaling, and delivering large, complex systems.
+Alongside Spring Framework founder [Rod Johnson](https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014) and other alumni, Embabel is built by a team of high-achieving engineers with a proven record not only in applied AI, but also in designing, scaling, and delivering large, complex systems.
 
 ### Embabel Core Philosophy and features
 Embabel distinguishes itself from Python-based frameworks by emphasizing deterministic orchestration and deep integration with existing enterprise systems.

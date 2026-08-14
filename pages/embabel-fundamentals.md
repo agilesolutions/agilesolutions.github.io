@@ -1,6 +1,6 @@
 # Multi-Staged Pipelines with the Embabel Blackboard
 
-This guide explains how the **Blackboard pattern** functions as the architectural backbone for orchestrating complex, multi-staged pipelines within the [Embabel Agent Framework](https://github.com) (a JVM-native AI agent framework built by Rod Johnson).
+This guide explains how the **Blackboard pattern** functions as the architectural backbone for orchestrating complex, multi-staged pipelines within the [Embabel Agent Framework](https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014) (a JVM-native AI agent framework built by Rod Johnson).
 
 ---
 

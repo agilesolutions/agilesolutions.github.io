@@ -9,7 +9,9 @@ See more about my backgrounds on [Linkedin account](https://www.linkedin.com/in/
 Independent software engineering and technology research conducted through hands-on development of open-source projects, proof-of-concepts and reference architectures. I use independent R&D projects to investigate modern software engineering and cloud-native technologies, with a strong focus on Java/Spring, distributed systems, Kubernetes, GitOps, Infrastructure as Code and secure microservice architectures.
 The work includes designing, implementing, deploying, testing and documenting complete technical solutions. Research results are maintained as public GitHub repositories and technical documentation.
 
-**Research and Engineering Areas**
+**NOTE: At the moment I am focusing integrating Agentic AI on JVM (Spring) based Enterprise and Business Solutions and taking a deep dive into the Embabel Agent Framework. I firmly believe that Agentic [Rod Johnsons Embabel](https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014) is the future of AI-powered software development, and I am excited to explore its potential in enterprise solutions.**
+
+**Under here you see a list of things I have been working on and researching in the last years**
 - Migrating legacy COBOL to SpringBoot MicroServices with [Anthropic Claude AI](https://itdaily.com/blogs/software/anthropic-claude-cobol-ibm/)
 - Implementing Agentic AI on Enterprise Solutions with [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) and [Embabel](https://hub.embabel.com/reference/spring)
 - Cloud engineering CNCF compliant solutions on [STACKIT](https://stackit.com/en) Sovereign Cloud

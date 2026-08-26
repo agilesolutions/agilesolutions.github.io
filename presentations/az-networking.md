@@ -21,6 +21,7 @@ Priority	Source	Source ports	Destination	Destination ports	Protocol	Access
 120	*	*	AsgDb	1433	Any	Deny
 - R - 5301
 - C - 3879
+- M - 2891
 - C - 6233
 
 ### Allow-Database-BusinessLogic

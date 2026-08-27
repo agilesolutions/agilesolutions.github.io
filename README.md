@@ -97,7 +97,7 @@ Agentic AI is designed to automate repetitive tasks, freeing up human resources 
 5. [Model Context Protocol (MCP)](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html) enabling standardized protocol that enables AI models to interact with external tools and resources in a structured way. It supports multiple transport mechanisms to provide flexibility across different environments.
 6. [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-ai-foundry) providing me an enterprise-grade platform to building and running generative AI applications on an enterprise-grade platform.
 7. [Application Insight and Telemetry](https://learn.microsoft.com/en-us/previous-versions/azure/search/search-traffic-analytics?tabs=visual-studio-telemetry-client%2Cdotnet-correlation%2Cdotnet-properties%2Cdotnet-custom-events) for [Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search) traffic analytics.
-8. [Hashicorp Terraform](https://learn.microsoft.com/en-us/azure/ai-services/create-account-terraform?tabs=azure-cli) to deploy Azure AI services resource using Terraform
+8. [Hashicorp Terraform](pages/solutionarchitect.md) to deploy Azure AI services resource using Terraform
 9. [Hashicorp Terraform](pages/solutionarchitect-nl.md) to deploy Azure AI Search service using Terraform
 
 ## Technology stack

@@ -4,20 +4,23 @@ Een **Software Solution Architect** vertaalt complexe bedrijfsvraagstukken naar 
 
 ## Kernverantwoordelijkheden
 
-### 1. Inventarisatie van Eisen & Afstemming (Requirements Analysis)
-* **Niet-Functionele Eisen (NFR's):** Definiëren van systeemeisen zoals schaalbaarheid, beveiliging, prestaties, beschikbaarheid en kosten.
+### 1. Inventarisatie van Eisen & Afstemming/Alignment (NF Requirements & Alignment Business / IT)
+
+**Randvoorwaarden vaststellen, grenzen waarbinnen je acteert (2), rules of engagement**
+
+* **Niet-Functionele Eisen (NFR's):** Definiëren van systeemeisen zoals schaalbaarheid, beveiliging, prestaties, beschikbaarheid (HA, DR, observability)en kosten.
 * **Afstemming Business & IT:** Garanderen dat de voorgestelde softwarearchitectuur direct bijdraagt aan de bedrijfsdoelstellingen en voldoet aan IT-standaarden.
 
-### 2. Architectonisch Ontwerp & Technologiekeuze
+### 2. Architectonisch Ontwerp & Technologiekeuze (Research & Design)
 * **Ontwerpen van Blueprints:** Schetsen van high-level systeemstructuren, database-ontwerpen, API's, workflows en cloud-topologieën.
 * **Selectie Tech Stack:** Onderzoeken en kiezen van de optimale frameworks, programmeertalen, platformen en tools van derden.
 * **Proof of Concepts (PoC):** Bouwen van prototypes om te valideren of een voorgesteld ontwerp in de praktijk werkt.
 
-### 3. Technisch Leiderschap & Governance
+### 3. Technisch Leiderschap & Governance (Leadershipt & Governance)
 * **Begeleiden van Development Teams:** Richting geven aan engineers, complexe ontwerpconcepten verduidelijken en de implementatie bewaken.
 * **Handhaven van Standaarden:** Vastleggen van codeerrichtlijnen, architectonische standaarden en benchmarks voor kwaliteitsbewaking.
 
-### 4. Risicobeheer & Beperkingen (Constraint Management)
+### 4. Risicobeheer & Beperkingen (Risk & Constraint Management)
 * **Risico's Beperken:** Proactief identificeren van beveiligingslekken, prestatieknelpunten (bottlenecks) en 'single points of failure'.
 * **Afwegen van Trade-offs:** Navigeren binnen projectbeperkingen zoals budgetten, harde deadlines en verouderde systemen (legacy) om tot de beste compromis te komen.
 

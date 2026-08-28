@@ -4,7 +4,7 @@ Een **Software Solution Architect** vertaalt complexe bedrijfsvraagstukken naar 
 
 ## Kernverantwoordelijkheden
 
-### 1. Inventarisatie van Eisen & Afstemming/Alignment (NF Requirements & Alignment Business / IT)
+### 1. Inventarisatie van Eisen & Afstemming/Alignment en aansluiten (NF Requirements & Alignment Business / IT)
 
 **Randvoorwaarden vaststellen, grenzen waarbinnen je acteert (2), rules of engagement**
 

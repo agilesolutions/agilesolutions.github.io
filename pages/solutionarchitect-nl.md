@@ -8,7 +8,7 @@ Een **Software Solution Architect** vertaalt complexe bedrijfsvraagstukken naar 
 
 **Randvoorwaarden vaststellen, grenzen waarbinnen je acteert (2), rules of engagement**
 
-* **Niet-Functionele Eisen (NFR's):** Definiëren van systeemeisen zoals schaalbaarheid, beveiliging, prestaties, beschikbaarheid (HA, DR, observability)en kosten.
+* **Niet-Functionele Eisen (NFR's):** Definiëren van systeemeisen zoals schaalbaarheid, beveiliging, prestaties, beschikbaarheid (HA, DR, observability), digitale soevereiniteit en zelfbeschikking, zero vendor lock-in, CNCF compliance en kosten.
 * **Afstemming Business & IT:** Garanderen dat de voorgestelde softwarearchitectuur direct bijdraagt aan de bedrijfsdoelstellingen en voldoet aan IT-standaarden.
 
 ### 2. Architectonisch Ontwerp & Technologiekeuze (Research & Design)

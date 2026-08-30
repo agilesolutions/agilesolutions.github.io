@@ -128,3 +128,4 @@ Agentic AI is designed to automate repetitive tasks, freeing up human resources 
 1. [From Generative to vertical Agentic AI](presentations/presentation.md)
 2. [AZ commands](presentations/az.md)
 3. [AZ VM's and Networking](presentations/az-networking.md)
+4. [C4 solution designs with Mermaid](designs/c4.md)

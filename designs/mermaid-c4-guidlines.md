@@ -75,7 +75,8 @@ Rel(spa, api, "Executes secure checkout calls", "JSON/HTTPS")
 Rel(api, db, "Reads inventory & writes transaction records", "SQL/TCP")
 Rel(api, payment, "Authorizes payment tokens", "REST/HTTPS")
 
-UpdateLayoutConfig(\(c4ShapeInRow="3", \)c4BoundaryInRow="1")
+%% FIXED: Prepended mandatory $ markers onto the macro variables
+UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 ```
 
 ---
@@ -164,7 +165,8 @@ Rel(order_service, kafka, "Publishes 'OrderCreated' event", "Spring Cloud Stream
 Rel(kafka, payment_service, "Consumes transaction payloads", "Spring Cloud Stream / Kafka")
 Rel(payment_service, stripe, "Executes payment transaction", "REST/HTTPS")
 
-UpdateLayoutConfig(c4ShapeInRow="3", c4BoundaryInRow="1")
+%% FIXED: Added mandatory $ markers onto the macro variables
+UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 ```
 
 ---
@@ -226,7 +228,7 @@ C4Dynamic
 title Dynamic View: Log Correlation & Custom Exception Span Flow
 
 Person(user, "End User")
-Container(gateway, "API Gateway", "Spring Cloud Gateway")
+Container(gateway, "API Gateway", "Spring Cloud gateway")
 Container(order_service, "Order Microservice", "Spring Boot 4.x")
 Container(payment_service, "Payment Microservice", "Spring Boot 4.x")
 
@@ -346,7 +348,8 @@ Rel_Down(payment_service, alloy, "6a. Pushes OTLP Custom Span with Exception Met
 Rel(alloy, loki, "6b. Scrapes stdout logs, parses metadata, and ships to Loki", "Loki API")
 Rel(alloy, tempo, "6c. Batches and routes trace spans to Tempo", "OTLP / gRPC")
 
-Note(alloy, "Grafana UI matches Trace ID 'xyz-123' seamlessly between Loki logs and Tempo spans.")
+%% FIXED: Replaced illegal note token with a standard relationship direction path
+Rel_Right(tempo, loki, "7. Grafana UI correlates trace_id 'xyz-123' across views", "Metadata Sync")
 ```
 
 ---

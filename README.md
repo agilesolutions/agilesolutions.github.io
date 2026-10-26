@@ -14,6 +14,7 @@ The work includes designing, implementing, deploying, testing and documenting co
 *[Read about Blackboard pattern](pages/embabel-fundamentals.md) which functions as the architectural backbone for orchestrating complex, multi-staged Embabel Agentic pipelines*
 
 **Under here you see a list of things I have been working on and researching in the last years**
+- Spring AI/Embabel event driven solutions with Qdrant, Kafka, MongoDB, PostgreSQL.
 - Migrating legacy COBOL to SpringBoot MicroServices with [Anthropic Claude AI](https://itdaily.com/blogs/software/anthropic-claude-cobol-ibm/)
 - Implementing Agentic AI on Enterprise Solutions with [Spring AI](https://docs.spring.io/spring-ai/reference/index.html) and [Embabel](https://hub.embabel.com/reference/spring)
 - Cloud engineering CNCF compliant solutions on [STACKIT](https://stackit.com/en) Sovereign Cloud
@@ -24,7 +25,8 @@ The work includes designing, implementing, deploying, testing and documenting co
 
 A collection of the resulting reference implementations, proof-of-concepts and technical research projects is available on GitHub:
 👉 GitHub — Independent Software Engineering R&D Projects
-1. Enabling Agentic AI on enterprise solutions with Spring AI and Embabel: [https://github.com/agilesolutions/spring-ai-embabel](https://github.com/agilesolutions/spring-ai-embabel)
+1. [AI Event Driven knowledge demo](https://github.com/agilesolutions/event-driven-ai-knowledge-platform) with Spring AI, Kafka, MongoDB, PostgreSQL, Qdrant enabling RAG semantic similarity searches.
+2. Enabling Agentic AI on enterprise solutions with Spring AI and Embabel: [https://github.com/agilesolutions/spring-ai-embabel](https://github.com/agilesolutions/spring-ai-embabel)
 2. AI SDD Spec Driven development with Github Spec Kit: [https://github.com/agilesolutions/haven-poc-sdd](https://github.com/agilesolutions/haven-poc-sdd)
 3. Anthropic Claude AI migrating Cobol to Java SpringBoot microservices: [https://github.com/agilesolutions/cobol-to-spring-boot-microservices](https://github.com/agilesolutions/cobol-to-spring-boot-microservices)
 4. STACKIT Sovereign cloud engineering: [https://github.com/agilesolutions/stackit-spring-ms-k8s](https://github.com/agilesolutions/stackit-spring-ms-k8s)
@@ -129,3 +131,4 @@ Agentic AI is designed to automate repetitive tasks, freeing up human resources 
 2. [AZ commands](presentations/az.md)
 3. [AZ VM's and Networking](presentations/az-networking.md)
 4. [C4 solution designs with Mermaid](designs/c4.md)
+5. [Mermaid C4 diagrams](https://mermaid.js.org/syntax/c4.html)
